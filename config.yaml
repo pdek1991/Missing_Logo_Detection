@@ -1,0 +1,49 @@
+scheduler:
+  max_streams: 50
+  default_poll_interval_seconds: 10
+  default_ffmpeg_timeout_seconds: 4
+  default_retry_attempts: 1
+  retry_backoff_seconds: 1
+  retry_backoff_multiplier: 2
+  retry_max_backoff_seconds: 4
+  dispatch_sleep_seconds: 0.1
+  max_workers: 50
+
+api_enabled: true
+api_host: 0.0.0.0
+api_port: 8000
+
+streams:
+  - name: SAB_HD
+    url: udp://@239.1.1.1:1234
+    resolution_type: HD
+    template_path: logos/sab2.png
+    display_logo: logos/sab2.PNG
+    threshold_yellow: 0.60
+    threshold_red: 0.50
+    fps_check: 1
+    poll_interval_seconds: 10
+    ffmpeg_timeout_seconds: 4
+    retry_attempts: 1
+    roi:
+      x: 490
+      y: 33
+      width: 55
+      height: 58
+
+  - name: Sony_Pal
+    url: udp://@239.1.1.1:1235
+    resolution_type: HD
+    template_path: logos/Sony_Pal.png
+    display_logo: logos/Sony_Pal.png
+    threshold_yellow: 0.60
+    threshold_red: 0.50
+    fps_check: 1
+    poll_interval_seconds: 10
+    ffmpeg_timeout_seconds: 4
+    retry_attempts: 1
+    roi:
+      x: 560
+      y: 35
+      width: 40
+      height: 40

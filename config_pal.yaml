@@ -1,0 +1,15 @@
+streams:
+  - name: SAB_HD
+    url: udp://@239.1.1.1:1234
+    resolution_type: HD
+    template_path: logos/sab2.png
+    threshold_yellow: 0.60
+    threshold_red: 0.50
+    fps_check: 1
+    scan_cycle_seconds: 5
+    roi:
+      x: 560
+      y: 35
+      width: 40
+      height: 40
+

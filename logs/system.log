@@ -1,0 +1,1336 @@
+2026-03-04 13:22:03 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:22:09 | SAB_HD | 0.21 | WARMUP
+
+2026-03-04 13:22:14 | SAB_HD | 0.21 | WARMUP
+
+2026-03-04 13:22:19 | SAB_HD | 0.22 | WARMUP
+
+2026-03-04 13:22:25 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:23:20 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:23:25 | SAB_HD | 0.09 | WARMUP
+
+2026-03-04 13:23:31 | SAB_HD | 0.03 | WARMUP
+
+2026-03-04 13:23:31 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:23:31 | SAB_HD | N/A | WARMUP
+
+2026-03-04 13:24:37 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:24:43 | SAB_HD | 0.21 | WARMUP
+
+2026-03-04 13:24:44 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:24:44 | SAB_HD | N/A | WARMUP
+
+2026-03-04 13:25:15 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:25:21 | SAB_HD | 0.29 | WARMUP
+
+2026-03-04 13:25:26 | SAB_HD | 0.48 | WARMUP
+
+2026-03-04 13:25:31 | SAB_HD | 0.48 | WARMUP
+
+2026-03-04 13:26:08 | SAB_HD | 0.45 | RED CRITICAL ALERT
+
+2026-03-04 13:27:19 | SAB_HD | 0.42 | RED CRITICAL ALERT
+
+2026-03-04 13:27:22 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:27:22 | SAB_HD | N/A | STREAM_DECODE_ERROR
+
+2026-03-04 13:27:27 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:27:32 | SAB_HD | 0.52 | WARMUP
+
+2026-03-04 13:27:37 | SAB_HD | 0.51 | WARMUP
+
+2026-03-04 13:27:42 | SAB_HD | 0.39 | WARMUP
+
+2026-03-04 13:27:50 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:28:20 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:28:25 | SAB_HD | 0.65 | WARMUP
+
+2026-03-04 13:28:30 | SAB_HD | 0.65 | WARMUP
+
+2026-03-04 13:28:36 | SAB_HD | 0.64 | WARMUP
+
+2026-03-04 13:28:45 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:29:07 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:29:13 | SAB_HD | 0.72 | WARMUP
+
+2026-03-04 13:29:19 | SAB_HD | 0.73 | WARMUP
+
+2026-03-04 13:29:24 | SAB_HD | 0.73 | WARMUP
+
+2026-03-04 13:29:29 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:29:51 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:30:00 | SAB_HD | 0.62 | WARMUP
+
+2026-03-04 13:30:07 | SAB_HD | 0.70 | WARMUP
+
+2026-03-04 13:30:12 | SAB_HD | 0.69 | WARMUP
+
+2026-03-04 13:30:29 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:33:38 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:33:43 | SAB_HD | 0.73 | WARMUP
+
+2026-03-04 13:33:48 | SAB_HD | 0.76 | WARMUP
+
+2026-03-04 13:33:54 | SAB_HD | 0.74 | WARMUP
+
+2026-03-04 13:34:57 | SAB_HD | 0.65 | YELLOW WARNING
+
+2026-03-04 13:35:09 | SAB_HD | N/A | NO_PACKETS_RECEIVED
+
+2026-03-04 13:35:21 | SAB_HD | N/A | NO_PACKETS_RECEIVED
+
+2026-03-04 13:36:00 | SAB_HD | 0.08 | RED CRITICAL ALERT
+
+2026-03-04 13:36:38 | SAB_HD | 0.08 | RED CRITICAL ALERT
+
+2026-03-04 13:37:15 | SAB_HD | 0.06 | RED CRITICAL ALERT
+
+2026-03-04 13:37:26 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:37:44 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:37:50 | SAB_HD | 0.00 | WARMUP
+
+2026-03-04 13:37:55 | SAB_HD | 0.00 | WARMUP
+
+2026-03-04 13:38:01 | SAB_HD | 0.15 | WARMUP
+
+2026-03-04 13:38:10 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:39:41 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:39:47 | SAB_HD | 0.11 | WARMUP
+
+2026-03-04 13:39:50 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:39:50 | SAB_HD | N/A | WARMUP
+
+2026-03-04 13:40:29 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:40:35 | SAB_HD | 0.52 | WARMUP
+
+2026-03-04 13:40:40 | SAB_HD | 0.54 | WARMUP
+
+2026-03-04 13:40:41 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:40:42 | SAB_HD | N/A | WARMUP
+
+2026-03-04 13:40:55 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:41:01 | SAB_HD | 0.43 | WARMUP
+
+2026-03-04 13:41:06 | SAB_HD | 0.51 | WARMUP
+
+2026-03-04 13:41:12 | SAB_HD | 0.49 | WARMUP
+
+2026-03-04 13:41:21 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:41:37 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:41:43 | SAB_HD | 0.67 | WARMUP
+
+2026-03-04 13:41:47 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:41:48 | SAB_HD | N/A | WARMUP
+
+2026-03-04 13:42:00 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:42:05 | SAB_HD | 0.67 | WARMUP
+
+2026-03-04 13:42:10 | SAB_HD | 0.63 | WARMUP
+
+2026-03-04 13:42:16 | SAB_HD | 0.67 | WARMUP
+
+2026-03-04 13:42:54 | SAB_HD | 0.65 | RED CRITICAL ALERT
+
+2026-03-04 13:43:32 | SAB_HD | 0.66 | YELLOW WARNING
+
+2026-03-04 13:43:46 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:43:50 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:43:55 | SAB_HD | 0.39 | WARMUP
+
+2026-03-04 13:44:01 | SAB_HD | 0.65 | WARMUP
+
+2026-03-04 13:44:06 | SAB_HD | 0.66 | WARMUP
+
+2026-03-04 13:44:44 | SAB_HD | 0.65 | LOGO_PRESENT
+
+2026-03-04 13:44:50 | SAB_HD | 0.66 | LOGO_PRESENT
+
+2026-03-04 13:44:55 | SAB_HD | 0.64 | LOGO_PRESENT
+
+2026-03-04 13:45:01 | SAB_HD | 0.62 | LOGO_PRESENT
+
+2026-03-04 13:45:07 | SAB_HD | 0.67 | LOGO_PRESENT
+
+2026-03-04 13:45:12 | SAB_HD | 0.61 | LOGO_PRESENT
+
+2026-03-04 13:45:18 | SAB_HD | 0.64 | LOGO_PRESENT
+
+2026-03-04 13:45:23 | SAB_HD | 0.65 | LOGO_PRESENT
+
+2026-03-04 13:45:29 | SAB_HD | 0.67 | LOGO_PRESENT
+
+2026-03-04 13:45:34 | SAB_HD | 0.62 | LOGO_PRESENT
+
+2026-03-04 13:46:12 | SAB_HD | 0.60 | YELLOW WARNING
+
+2026-03-04 13:46:17 | SAB_HD | 0.65 | LOGO_PRESENT
+
+2026-03-04 13:46:23 | SAB_HD | 0.65 | LOGO_PRESENT
+
+2026-03-04 13:47:01 | SAB_HD | 0.65 | LOGO_PRESENT
+
+2026-03-04 13:47:06 | SAB_HD | 0.66 | LOGO_PRESENT
+
+2026-03-04 13:47:12 | SAB_HD | 0.67 | LOGO_PRESENT
+
+2026-03-04 13:47:17 | SAB_HD | 0.65 | LOGO_PRESENT
+
+2026-03-04 13:47:23 | SAB_HD | 0.67 | LOGO_PRESENT
+
+2026-03-04 13:47:28 | SAB_HD | 0.61 | LOGO_PRESENT
+
+2026-03-04 13:47:34 | SAB_HD | 0.64 | LOGO_PRESENT
+
+2026-03-04 13:47:39 | SAB_HD | 0.67 | LOGO_PRESENT
+
+2026-03-04 13:47:45 | SAB_HD | 0.67 | LOGO_PRESENT
+
+2026-03-04 13:47:51 | SAB_HD | 0.62 | LOGO_PRESENT
+
+2026-03-04 13:47:51 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:47:51 | SAB_HD | N/A | NO_PACKETS_RECEIVED
+
+2026-03-04 13:48:14 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:48:20 | SAB_HD | 0.14 | WARMUP
+
+2026-03-04 13:48:25 | SAB_HD | 0.06 | WARMUP
+
+2026-03-04 13:48:30 | SAB_HD | 0.07 | WARMUP
+
+2026-03-04 13:49:09 | SAB_HD | 0.17 | RED CRITICAL ALERT
+
+2026-03-04 13:49:47 | SAB_HD | 0.09 | RED CRITICAL ALERT
+
+2026-03-04 13:50:19 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:50:29 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:50:34 | SAB_HD | 0.36 | WARMUP
+
+2026-03-04 13:50:40 | SAB_HD | 0.36 | WARMUP
+
+2026-03-04 13:50:45 | SAB_HD | 0.29 | WARMUP
+
+2026-03-04 13:51:23 | SAB_HD | 0.34 | RED CRITICAL ALERT
+
+2026-03-04 13:52:01 | SAB_HD | 0.33 | RED CRITICAL ALERT
+
+2026-03-04 13:52:18 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:52:25 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:52:31 | SAB_HD | 0.66 | WARMUP
+
+2026-03-04 13:52:37 | SAB_HD | 0.62 | WARMUP
+
+2026-03-04 13:52:42 | SAB_HD | 0.65 | WARMUP
+
+2026-03-04 13:52:48 | SAB_HD | 0.65 | logo present
+
+2026-03-04 13:52:53 | SAB_HD | 0.67 | logo present
+
+2026-03-04 13:52:58 | SAB_HD | 0.66 | logo present
+
+2026-03-04 13:53:04 | SAB_HD | 0.67 | logo present
+
+2026-03-04 13:53:09 | SAB_HD | 0.65 | logo present
+
+2026-03-04 13:53:15 | SAB_HD | 0.66 | logo present
+
+2026-03-04 13:53:35 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:55:08 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:55:13 | SAB_HD | 0.65 | WARMUP
+
+2026-03-04 13:55:18 | SAB_HD | 0.39 | WARMUP
+
+2026-03-04 13:55:24 | SAB_HD | 0.67 | WARMUP
+
+2026-03-04 13:55:29 | SAB_HD | 0.66 | LOGO PRESENT
+
+2026-03-04 13:55:35 | SAB_HD | 0.65 | LOGO PRESENT
+
+2026-03-04 13:56:13 | SAB_HD | 0.67 | LOGO PRESENT
+
+2026-03-04 13:56:19 | SAB_HD | 0.67 | LOGO PRESENT
+
+2026-03-04 13:56:24 | SAB_HD | 0.65 | LOGO PRESENT
+
+2026-03-04 13:56:30 | SAB_HD | 0.67 | LOGO PRESENT
+
+2026-03-04 13:56:35 | SAB_HD | 0.61 | LOGO PRESENT
+
+2026-03-04 13:56:40 | SAB_HD | 0.64 | LOGO PRESENT
+
+2026-03-04 13:56:46 | SAB_HD | 0.67 | LOGO PRESENT
+
+2026-03-04 13:56:52 | SAB_HD | 0.67 | LOGO PRESENT
+
+2026-03-04 13:57:29 | SAB_HD | 0.63 | LOGO PRESENT
+
+2026-03-04 13:57:35 | SAB_HD | 0.67 | LOGO PRESENT
+
+2026-03-04 13:57:41 | SAB_HD | 0.67 | LOGO PRESENT
+
+2026-03-04 13:57:46 | SAB_HD | 0.66 | LOGO PRESENT
+
+2026-03-04 13:57:51 | SAB_HD | 0.65 | LOGO PRESENT
+
+2026-03-04 13:57:52 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:58:13 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:58:19 | SAB_HD | 0.34 | WARMUP
+
+2026-03-04 13:58:24 | SAB_HD | 0.17 | WARMUP
+
+2026-03-04 13:58:29 | SAB_HD | 0.15 | WARMUP
+
+2026-03-04 13:59:05 | SAB_HD | 0.12 | LOGO MISSING
+
+2026-03-04 13:59:42 | SAB_HD | 0.15 | LOGO MISSING
+
+2026-03-04 13:59:51 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 13:59:53 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 13:59:59 | SAB_HD | 0.65 | WARMUP
+
+2026-03-04 14:00:04 | SAB_HD | 0.65 | WARMUP
+
+2026-03-04 14:00:10 | SAB_HD | 0.65 | WARMUP
+
+2026-03-04 14:00:51 | SAB_HD | 0.67 | LOGO MAYBE MISSING
+
+2026-03-04 14:01:03 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 14:01:15 | System | N/A | Logo Engine Booting => Staggering 1 concurrent streams.
+
+2026-03-04 14:01:20 | SAB_HD | 0.67 | WARMUP
+
+2026-03-04 14:01:25 | SAB_HD | 0.64 | WARMUP
+
+2026-03-04 14:01:31 | SAB_HD | 0.63 | WARMUP
+
+2026-03-04 14:01:36 | SAB_HD | 0.64 | LOGO PRESENT
+
+2026-03-04 14:01:41 | SAB_HD | 0.66 | LOGO PRESENT
+
+2026-03-04 14:01:46 | SAB_HD | 0.66 | LOGO PRESENT
+
+2026-03-04 14:01:51 | SAB_HD | 0.66 | LOGO PRESENT
+
+2026-03-04 14:01:57 | SAB_HD | 0.67 | LOGO PRESENT
+
+2026-03-04 14:02:02 | SAB_HD | 0.63 | LOGO PRESENT
+
+2026-03-04 14:24:43 | System | N/A | Logo Engine Booting => Staggering 2 concurrent streams.
+
+2026-03-04 14:24:43 | System | N/A | API server listening on 0.0.0.0:8000
+
+2026-03-04 14:24:49 | SAB_HD | 0.16 | WARMUP
+
+2026-03-04 14:24:55 | SAB_HD | 0.15 | WARMUP
+
+2026-03-04 14:25:00 | SAB_HD | 0.15 | WARMUP
+
+2026-03-04 14:25:37 | SAB_HD | 0.13 | LOGO MISSING
+
+2026-03-04 14:25:56 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 14:26:34 | System | N/A | Logo Engine Booting => Staggering 2 concurrent streams.
+
+2026-03-04 14:26:34 | System | N/A | API server listening on 0.0.0.0:8000
+
+2026-03-04 14:26:39 | SAB_HD | 0.14 | WARMUP
+
+2026-03-04 14:26:40 | Sony_Pal | 0.00 | WARMUP
+
+2026-03-04 14:26:45 | SAB_HD | 0.16 | WARMUP
+
+2026-03-04 14:26:45 | Sony_Pal | 0.00 | WARMUP
+
+2026-03-04 14:26:50 | SAB_HD | 0.16 | WARMUP
+
+2026-03-04 14:26:50 | Sony_Pal | 0.00 | WARMUP
+
+2026-03-04 14:27:26 | SAB_HD | 0.16 | LOGO MISSING
+
+2026-03-04 14:27:29 | Sony_Pal | 0.03 | LOGO MISSING
+
+2026-03-04 14:28:05 | SAB_HD | 0.14 | LOGO MISSING
+
+2026-03-04 14:28:07 | Sony_Pal | 0.08 | LOGO MISSING
+
+2026-03-04 14:28:41 | SAB_HD | 0.15 | LOGO MISSING
+
+2026-03-04 14:28:45 | Sony_Pal | 0.04 | LOGO MISSING
+
+2026-03-04 14:28:55 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 14:32:35 | System | N/A | Logo Engine Booting => Staggering 2 concurrent streams.
+
+2026-03-04 14:32:35 | System | N/A | API server listening on 0.0.0.0:8000
+
+2026-03-04 14:32:40 | SAB_HD | 0.08 | WARMUP
+
+2026-03-04 14:32:40 | Sony_Pal | 0.17 | WARMUP
+
+2026-03-04 14:32:46 | SAB_HD | 0.16 | WARMUP
+
+2026-03-04 14:32:46 | Sony_Pal | 0.00 | WARMUP
+
+2026-03-04 14:32:51 | SAB_HD | 0.17 | WARMUP
+
+2026-03-04 14:32:52 | Sony_Pal | 0.00 | WARMUP
+
+2026-03-04 14:33:28 | SAB_HD | 0.15 | LOGO MISSING
+
+2026-03-04 14:33:29 | Sony_Pal | 0.03 | LOGO MISSING
+
+2026-03-04 14:34:44 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 14:34:44 | Sony_Pal | N/A | NO_PACKETS_RECEIVED
+
+2026-03-04 14:34:44 | SAB_HD | N/A | NO_PACKETS_RECEIVED
+
+2026-03-04 14:35:32 | System | N/A | Logo Engine Booting => Staggering 2 concurrent streams.
+
+2026-03-04 14:35:32 | System | N/A | API server listening on 0.0.0.0:8000
+
+2026-03-04 14:35:37 | SAB_HD | 0.69 | WARMUP
+
+2026-03-04 14:35:37 | SABSony_Pal_HD | 0.60 | WARMUP
+
+2026-03-04 14:35:42 | SAB_HD | 0.70 | WARMUP
+
+2026-03-04 14:35:43 | SABSony_Pal_HD | 0.65 | WARMUP
+
+2026-03-04 14:35:47 | SAB_HD | 0.71 | WARMUP
+
+2026-03-04 14:35:48 | SABSony_Pal_HD | 0.67 | WARMUP
+
+2026-03-04 14:35:53 | SAB_HD | 0.75 | LOGO PRESENT
+
+2026-03-04 14:35:58 | SAB_HD | 0.76 | LOGO PRESENT
+
+2026-03-04 14:36:03 | SAB_HD | 0.75 | LOGO PRESENT
+
+2026-03-04 14:36:08 | SAB_HD | 0.73 | LOGO PRESENT
+
+2026-03-04 14:36:13 | SAB_HD | 0.73 | LOGO PRESENT
+
+2026-03-04 14:36:18 | SAB_HD | 0.75 | LOGO PRESENT
+
+2026-03-04 14:36:24 | SAB_HD | 0.73 | LOGO PRESENT
+
+2026-03-04 14:36:26 | SABSony_Pal_HD | 0.66 | LOGO MAYBE MISSING
+
+2026-03-04 14:36:29 | SAB_HD | 0.74 | LOGO PRESENT
+
+2026-03-04 14:36:32 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 14:36:32 | SABSony_Pal_HD | N/A | STREAM_DECODE_ERROR
+
+2026-03-04 14:36:32 | SAB_HD | N/A | STREAM_DECODE_ERROR
+
+2026-03-04 14:36:49 | System | N/A | Logo Engine Booting => Staggering 2 concurrent streams.
+
+2026-03-04 14:36:49 | System | N/A | API server listening on 0.0.0.0:8000
+
+2026-03-04 14:36:54 | SAB_HD | 0.74 | WARMUP
+
+2026-03-04 14:36:54 | Sony_Pal_HD | 0.65 | WARMUP
+
+2026-03-04 14:36:59 | SAB_HD | 0.74 | WARMUP
+
+2026-03-04 14:37:00 | Sony_Pal_HD | 0.59 | WARMUP
+
+2026-03-04 14:37:04 | SAB_HD | 0.74 | WARMUP
+
+2026-03-04 14:37:05 | Sony_Pal_HD | 0.65 | WARMUP
+
+2026-03-04 14:37:10 | SAB_HD | 0.74 | LOGO PRESENT
+
+2026-03-04 14:37:11 | Sony_Pal_HD | 0.67 | LOGO PRESENT
+
+2026-03-04 14:37:16 | SAB_HD | 0.71 | LOGO PRESENT
+
+2026-03-04 14:37:29 | Sony_Pal_HD | 0.65 | LOGO PRESENT
+
+2026-03-04 14:37:30 | SAB_HD | 0.75 | LOGO PRESENT
+
+2026-03-04 14:37:35 | SAB_HD | 0.71 | LOGO PRESENT
+
+2026-03-04 14:37:41 | SAB_HD | 0.71 | LOGO PRESENT
+
+2026-03-04 14:37:46 | SAB_HD | 0.75 | LOGO PRESENT
+
+2026-03-04 14:37:52 | SAB_HD | 0.71 | LOGO PRESENT
+
+2026-03-04 14:37:57 | SAB_HD | 0.74 | LOGO PRESENT
+
+2026-03-04 14:38:03 | SAB_HD | 0.72 | LOGO PRESENT
+
+2026-03-04 14:38:07 | Sony_Pal_HD | 0.62 | LOGO PRESENT
+
+2026-03-04 14:38:09 | SAB_HD | 0.72 | LOGO PRESENT
+
+2026-03-04 14:38:13 | Sony_Pal_HD | 0.67 | LOGO PRESENT
+
+2026-03-04 14:38:14 | SAB_HD | 0.75 | LOGO PRESENT
+
+2026-03-04 14:38:18 | Sony_Pal_HD | 0.67 | LOGO PRESENT
+
+2026-03-04 14:38:19 | SAB_HD | 0.73 | LOGO PRESENT
+
+2026-03-04 14:38:24 | Sony_Pal_HD | 0.66 | LOGO PRESENT
+
+2026-03-04 14:38:24 | SAB_HD | 0.66 | LOGO PRESENT
+
+2026-03-04 14:38:29 | SAB_HD | 0.75 | LOGO PRESENT
+
+2026-03-04 14:38:29 | Sony_Pal_HD | 0.66 | LOGO PRESENT
+
+2026-03-04 14:38:31 | System | N/A | Graceful shutdown initiated. Terminating workers...
+
+2026-03-04 14:38:31 | SAB_HD | N/A | STREAM_DECODE_ERROR
+
+2026-03-04 14:38:31 | Sony_Pal_HD | N/A | STREAM_DECODE_ERROR
+
+2026-03-04 16:05:24.982 | INFO     | System | score=N/A | status=Engine started with 2 streams, poll=10.0s, workers=2, recommended_workers=2.
+2026-03-04 16:05:24.991 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-04 16:05:29.044 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:05:33.103 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:05:34.084 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:05:38.121 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:05:39.060 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:05:43.102 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:05:44.119 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:05:48.154 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:05:49.080 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:05:53.129 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:05:54.137 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:05:58.154 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:05:59.037 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:06:03.078 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:06:04.183 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:06:08.212 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:06:09.148 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:06:13.179 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:06:14.231 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:06:18.257 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:06:19.186 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:06:23.232 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:06:24.280 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:07:05.961 | INFO     | System | score=N/A | status=Engine started with 2 streams, poll=10.0s, workers=2, recommended_workers=2.
+2026-03-04 16:07:05.977 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-04 16:07:10.012 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:08:49.757 | INFO     | System | score=N/A | status=Engine started with 2 streams, poll=10.0s, workers=2, recommended_workers=2.
+2026-03-04 16:08:49.766 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-04 16:11:51.341 | INFO     | System | score=N/A | status=Engine started with 2 streams, poll=10.0s, workers=2, recommended_workers=2.
+2026-03-04 16:11:51.349 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-04 16:11:55.382 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:11:59.458 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:12:00.456 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:12:04.477 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:12:05.423 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:12:09.447 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:12:10.461 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:12:14.497 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:12:15.422 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:12:19.473 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:12:20.476 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:12:24.512 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:12:25.448 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:12:29.494 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:12:30.473 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:12:34.522 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:12:35.457 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:12:39.480 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:12:40.475 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:12:44.537 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:12:45.546 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:12:49.585 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:12:50.556 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:12:54.597 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:12:55.557 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:12:59.609 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:13:00.553 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:13:04.587 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:13:05.627 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:13:09.651 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:13:10.614 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:13:14.664 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:13:15.721 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:13:19.753 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:13:20.679 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:13:24.739 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:13:25.811 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:13:29.863 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:13:30.672 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:13:34.696 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:13:35.853 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:13:39.882 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:13:40.762 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:13:44.811 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:13:45.891 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:13:49.911 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:13:50.761 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:13:54.803 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:13:55.886 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:13:59.926 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:14:00.663 | INFO     | Sony_Pal_HD | score=0.10 | status=LOGO MISSING | retries=0
+2026-03-04 16:14:05.950 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:14:08.344 | INFO     | Sony_Pal_HD | score=0.00 | status=LOGO MISSING | retries=0
+2026-03-04 16:14:10.012 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:14:16.019 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:14:20.061 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:14:20.180 | INFO     | Sony_Pal_HD | score=0.00 | status=LOGO MISSING | retries=0
+2026-03-04 16:14:26.053 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:14:28.195 | INFO     | Sony_Pal_HD | score=0.00 | status=LOGO MISSING | retries=0
+2026-03-04 16:14:30.080 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:14:36.153 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:14:38.780 | INFO     | Sony_Pal_HD | score=0.00 | status=LOGO MISSING | retries=0
+2026-03-04 16:14:40.199 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:14:46.027 | INFO     | SAB_HD | score=0.01 | status=LOGO MISSING | retries=0
+2026-03-04 16:14:49.879 | INFO     | Sony_Pal_HD | score=0.03 | status=LOGO MISSING | retries=0
+2026-03-04 16:14:54.065 | INFO     | SAB_HD | score=0.00 | status=LOGO MISSING | retries=0
+2026-03-04 16:15:01.057 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:15:03.179 | INFO     | Sony_Pal_HD | score=0.01 | status=LOGO MISSING | retries=1
+2026-03-04 16:15:03.754 | INFO     | SAB_HD | score=0.04 | status=LOGO MISSING | retries=0
+2026-03-04 16:15:08.823 | INFO     | Sony_Pal_HD | score=0.01 | status=LOGO MISSING | retries=0
+2026-03-04 16:15:14.519 | INFO     | SAB_HD | score=0.05 | status=LOGO MISSING | retries=0
+2026-03-04 16:15:19.194 | INFO     | Sony_Pal_HD | score=0.01 | status=LOGO MISSING | retries=0
+2026-03-04 16:15:24.944 | INFO     | SAB_HD | score=0.00 | status=LOGO MISSING | retries=0
+2026-03-04 16:15:31.295 | WARNING  | Sony_Pal_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:15:35.330 | WARNING  | Sony_Pal_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:15:35.803 | INFO     | SAB_HD | score=0.00 | status=LOGO MISSING | retries=0
+2026-03-04 16:15:39.043 | INFO     | Sony_Pal_HD | score=0.00 | status=LOGO MISSING | retries=0
+2026-03-04 16:15:40.820 | INFO     | System | score=N/A | status=Shutdown signal received, draining workers.
+2026-03-04 16:15:41.014 | INFO     | System | score=N/A | status=Scheduler stopped.
+2026-03-04 16:16:22.848 | INFO     | System | score=N/A | status=Engine started with 2 streams, poll=10.0s, workers=2, recommended_workers=2.
+2026-03-04 16:16:22.856 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-04 16:16:24.956 | INFO     | SAB_HD | score=0.00 | status=WARMUP | retries=0
+2026-03-04 16:16:29.511 | INFO     | Sony_Pal | score=0.00 | status=WARMUP | retries=0
+2026-03-04 16:16:34.261 | INFO     | SAB_HD | score=0.01 | status=WARMUP | retries=0
+2026-03-04 16:16:34.614 | INFO     | System | score=N/A | status=Shutdown signal received, draining workers.
+2026-03-04 16:16:34.811 | INFO     | System | score=N/A | status=Scheduler stopped.
+2026-03-04 16:17:32.693 | INFO     | System | score=N/A | status=Engine started with 2 streams, poll=10.0s, workers=2, recommended_workers=2.
+2026-03-04 16:17:32.703 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-04 16:17:34.693 | INFO     | SAB_HD | score=0.70 | status=WARMUP | retries=0
+2026-03-04 16:17:41.780 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:17:45.367 | INFO     | SAB_HD | score=0.72 | status=WARMUP | retries=0
+2026-03-04 16:17:45.830 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:17:51.772 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:17:54.117 | INFO     | SAB_HD | score=0.72 | status=LOGO PRESENT | retries=0
+2026-03-04 16:17:55.817 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:18:00.906 | INFO     | System | score=N/A | status=Shutdown signal received, draining workers.
+2026-03-04 16:18:01.043 | WARNING  | Sony_Pal capture failed (attempt 1/2): no packets received. Retrying in 1.00s.
+2026-03-04 16:18:02.061 | WARNING  | Sony_Pal | score=N/A | status=STREAM_DOWN | retries=1 | error=scheduler stopping
+2026-03-04 16:18:02.061 | INFO     | System | score=N/A | status=Scheduler stopped.
+2026-03-04 16:19:08.875 | INFO     | System | score=N/A | status=Engine started with 2 streams, poll=10.0s, workers=2, recommended_workers=2.
+2026-03-04 16:19:08.888 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-04 16:19:10.781 | INFO     | SAB_HD | score=0.76 | status=WARMUP | retries=0
+2026-03-04 16:19:17.980 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:19:21.444 | INFO     | SAB_HD | score=0.75 | status=WARMUP | retries=0
+2026-03-04 16:19:22.036 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:19:28.079 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:19:31.157 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-04 16:19:32.134 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:19:38.106 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:19:42.154 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:19:43.026 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:19:46.494 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=1
+2026-03-04 16:19:48.188 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:19:51.157 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 16:19:52.214 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:19:58.184 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:20:02.262 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:20:03.187 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:20:06.046 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=1
+2026-03-04 16:20:08.181 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:20:12.192 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:20:13.191 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:20:15.750 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=1
+2026-03-04 16:20:18.222 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:20:20.497 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-04 16:20:22.256 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:20:28.291 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:20:31.047 | INFO     | SAB_HD | score=0.72 | status=LOGO PRESENT | retries=0
+2026-03-04 16:20:32.339 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:20:38.368 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:20:41.274 | INFO     | SAB_HD | score=0.73 | status=LOGO PRESENT | retries=0
+2026-03-04 16:20:42.401 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:20:43.325 | INFO     | System | score=N/A | status=Shutdown signal received, draining workers.
+2026-03-04 16:20:43.500 | INFO     | System | score=N/A | status=Scheduler stopped.
+2026-03-04 16:22:53.434 | INFO     | System | score=N/A | status=Engine started with 2 streams, poll=10.0s, workers=2, recommended_workers=2.
+2026-03-04 16:22:53.443 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-04 16:22:57.464 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:22:59.991 | INFO     | Sony_Pal | score=0.65 | status=WARMUP | retries=0
+2026-03-04 16:23:01.528 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:23:05.037 | INFO     | SAB_HD | score=0.75 | status=WARMUP | retries=0
+2026-03-04 16:23:12.533 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:23:14.843 | INFO     | SAB_HD | score=0.68 | status=LOGO PRESENT | retries=0
+2026-03-04 16:23:16.130 | INFO     | Sony_Pal | score=0.65 | status=WARMUP | retries=1
+2026-03-04 16:23:22.536 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:23:26.306 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 16:23:26.576 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:23:29.853 | INFO     | Sony_Pal | score=0.67 | status=LOGO PRESENT | retries=0
+2026-03-04 16:23:35.093 | INFO     | SAB_HD | score=0.68 | status=LOGO PRESENT | retries=0
+2026-03-04 16:23:41.777 | INFO     | Sony_Pal | score=0.65 | status=LOGO PRESENT | retries=0
+2026-03-04 16:23:47.193 | INFO     | SAB_HD | score=0.69 | status=LOGO PRESENT | retries=0
+2026-03-04 16:23:50.009 | INFO     | Sony_Pal | score=0.39 | status=LOGO MISSING | retries=0
+2026-03-04 16:23:55.082 | INFO     | SAB_HD | score=0.69 | status=LOGO PRESENT | retries=0
+2026-03-04 16:24:02.585 | INFO     | Sony_Pal | score=0.63 | status=LOGO PRESENT | retries=0
+2026-03-04 16:24:07.907 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:24:11.951 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:24:12.743 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:24:15.925 | INFO     | SAB_HD | score=0.66 | status=LOGO PRESENT | retries=0
+2026-03-04 16:24:16.807 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:24:22.780 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:24:25.321 | INFO     | Sony_Pal | score=0.65 | status=LOGO PRESENT | retries=1
+2026-03-04 16:24:26.982 | INFO     | SAB_HD | score=0.66 | status=LOGO PRESENT | retries=0
+2026-03-04 16:24:30.162 | INFO     | Sony_Pal | score=0.39 | status=LOGO MISSING | retries=0
+2026-03-04 16:24:35.748 | INFO     | SAB_HD | score=0.66 | status=LOGO PRESENT | retries=0
+2026-03-04 16:24:40.275 | INFO     | Sony_Pal | score=0.66 | status=LOGO PRESENT | retries=0
+2026-03-04 16:24:42.370 | INFO     | System | score=N/A | status=Shutdown signal received, draining workers.
+2026-03-04 16:24:42.572 | INFO     | System | score=N/A | status=Scheduler stopped.
+2026-03-04 16:30:17.570 | INFO     | System | score=N/A | status=Engine started with 2 streams, poll=10.0s, workers=2, recommended_workers=2.
+2026-03-04 16:30:17.576 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-04 16:30:20.957 | INFO     | SAB_HD | score=0.70 | status=WARMUP | retries=0
+2026-03-04 16:30:26.717 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:30:28.922 | INFO     | SAB_HD | score=0.74 | status=WARMUP | retries=0
+2026-03-04 16:30:30.759 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:30:36.711 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:30:39.061 | INFO     | SAB_HD | score=0.67 | status=LOGO PRESENT | retries=0
+2026-03-04 16:30:40.720 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:30:46.790 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:30:50.805 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:30:51.044 | INFO     | SAB_HD | score=0.68 | status=LOGO PRESENT | retries=0
+2026-03-04 16:30:56.811 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:30:59.332 | INFO     | SAB_HD | score=0.73 | status=LOGO PRESENT | retries=0
+2026-03-04 16:31:00.833 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:31:06.804 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:31:09.484 | INFO     | SAB_HD | score=0.72 | status=LOGO PRESENT | retries=0
+2026-03-04 16:31:10.579 | INFO     | System | score=N/A | status=Shutdown signal received, draining workers.
+2026-03-04 16:31:10.628 | WARNING  | Sony_Pal | score=N/A | status=NO_PACKETS_RECEIVED | retries=1 | error=no packets received
+2026-03-04 16:31:10.789 | INFO     | System | score=N/A | status=Scheduler stopped.
+2026-03-04 16:33:13.467 | INFO     | System | score=N/A | status=Engine started with 2 streams, poll=10.0s, workers=2, recommended_workers=2.
+2026-03-04 16:33:13.476 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-04 16:33:16.490 | INFO     | SAB_HD | score=0.74 | status=WARMUP | retries=0
+2026-03-04 16:33:22.540 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:33:26.196 | INFO     | SAB_HD | score=0.76 | status=WARMUP | retries=0
+2026-03-04 16:33:26.554 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:33:32.521 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:33:35.067 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-04 16:33:36.539 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:33:42.559 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:33:46.586 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:33:46.632 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-04 16:33:52.553 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:33:55.038 | INFO     | SAB_HD | score=0.71 | status=LOGO PRESENT | retries=0
+2026-03-04 16:33:56.580 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:34:02.553 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:34:06.577 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:34:07.770 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:34:11.732 | INFO     | SAB_HD | score=0.66 | status=LOGO PRESENT | retries=1
+2026-03-04 16:34:12.644 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:34:16.696 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:34:17.812 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:34:21.857 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:34:22.720 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:34:26.734 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:34:27.653 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 16:34:32.780 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:34:36.829 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:34:37.052 | INFO     | SAB_HD | score=0.74 | status=LOGO PRESENT | retries=0
+2026-03-04 16:34:42.830 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:34:46.801 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-04 16:34:46.880 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:34:52.861 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:34:56.069 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 16:34:56.904 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:35:02.940 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:35:05.653 | INFO     | SAB_HD | score=0.74 | status=LOGO PRESENT | retries=0
+2026-03-04 16:35:06.969 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:35:12.962 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:35:15.536 | INFO     | SAB_HD | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-04 16:35:16.987 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:35:23.042 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:35:25.925 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 16:35:27.073 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:35:33.061 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:35:37.137 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:35:38.271 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:35:41.820 | INFO     | SAB_HD | score=0.71 | status=LOGO PRESENT | retries=1
+2026-03-04 16:35:43.075 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:35:45.721 | INFO     | SAB_HD | score=0.71 | status=LOGO PRESENT | retries=0
+2026-03-04 16:35:47.108 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:35:53.151 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:35:56.617 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 16:35:57.173 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:36:03.258 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:36:07.322 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:36:07.783 | INFO     | SAB_HD | score=0.73 | status=LOGO PRESENT | retries=0
+2026-03-04 16:36:13.278 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:36:17.300 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:36:18.476 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:36:22.539 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:36:23.321 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:36:25.806 | INFO     | System | score=N/A | status=Shutdown signal received, draining workers.
+2026-03-04 16:36:25.871 | WARNING  | Sony_Pal | score=N/A | status=NO_PACKETS_RECEIVED | retries=1 | error=no packets received
+2026-03-04 16:36:25.999 | WARNING  | SAB_HD capture failed (attempt 1/2): decoder failure. Retrying in 1.00s.
+2026-03-04 16:36:27.042 | WARNING  | SAB_HD | score=N/A | status=STREAM_DOWN | retries=1 | error=scheduler stopping
+2026-03-04 16:36:27.050 | INFO     | System | score=N/A | status=Scheduler stopped.
+2026-03-04 16:36:40.911 | INFO     | System | score=N/A | status=Engine started with 2 streams, poll=10.0s, workers=2, recommended_workers=2.
+2026-03-04 16:36:40.929 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-04 16:36:44.052 | INFO     | SAB_HD | score=0.75 | status=WARMUP | retries=0
+2026-03-04 16:36:49.933 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:36:53.991 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:36:54.228 | INFO     | SAB_HD | score=0.74 | status=WARMUP | retries=0
+2026-03-04 16:37:00.001 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:37:02.357 | INFO     | SAB_HD | score=0.74 | status=LOGO PRESENT | retries=0
+2026-03-04 16:37:04.032 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:37:10.049 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:37:12.479 | INFO     | SAB_HD | score=0.74 | status=LOGO PRESENT | retries=0
+2026-03-04 16:37:14.115 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:37:20.050 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:37:22.317 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-04 16:37:24.075 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:37:30.153 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:37:33.225 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 16:37:34.182 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:37:40.195 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:37:42.750 | INFO     | SAB_HD | score=0.71 | status=LOGO PRESENT | retries=0
+2026-03-04 16:37:44.230 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:37:50.250 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:37:54.165 | INFO     | SAB_HD | score=0.74 | status=LOGO PRESENT | retries=0
+2026-03-04 16:37:54.286 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:38:00.283 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:38:02.911 | INFO     | SAB_HD | score=0.74 | status=LOGO PRESENT | retries=0
+2026-03-04 16:38:04.318 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:38:10.297 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:38:14.331 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:38:14.626 | INFO     | SAB_HD | score=0.66 | status=LOGO PRESENT | retries=0
+2026-03-04 16:38:20.381 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:38:24.407 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:38:25.565 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:38:28.976 | INFO     | SAB_HD | score=0.71 | status=LOGO PRESENT | retries=1
+2026-03-04 16:38:30.413 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:38:32.878 | INFO     | SAB_HD | score=0.67 | status=LOGO PRESENT | retries=0
+2026-03-04 16:38:34.549 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:38:40.553 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:38:43.345 | INFO     | SAB_HD | score=0.67 | status=LOGO PRESENT | retries=0
+2026-03-04 16:38:44.581 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:38:50.634 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:38:52.818 | INFO     | SAB_HD | score=0.73 | status=LOGO PRESENT | retries=0
+2026-03-04 16:38:54.644 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:39:00.634 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:39:03.407 | INFO     | SAB_HD | score=0.72 | status=LOGO PRESENT | retries=0
+2026-03-04 16:39:04.694 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:39:10.730 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:39:14.773 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:39:15.762 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:39:19.799 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:39:20.779 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:39:24.279 | INFO     | SAB_HD | score=0.72 | status=LOGO PRESENT | retries=0
+2026-03-04 16:39:24.811 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:39:30.811 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:39:34.894 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:39:35.398 | INFO     | SAB_HD | score=0.71 | status=LOGO PRESENT | retries=0
+2026-03-04 16:39:40.829 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:39:43.375 | INFO     | SAB_HD | score=0.71 | status=LOGO PRESENT | retries=0
+2026-03-04 16:39:44.866 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:39:50.815 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:39:54.841 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:39:54.861 | INFO     | SAB_HD | score=0.69 | status=LOGO PRESENT | retries=0
+2026-03-04 16:40:00.930 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:40:04.962 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:40:05.419 | INFO     | SAB_HD | score=0.69 | status=LOGO PRESENT | retries=0
+2026-03-04 16:40:10.930 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:40:13.426 | INFO     | SAB_HD | score=0.71 | status=LOGO PRESENT | retries=0
+2026-03-04 16:40:14.994 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:40:20.930 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:40:24.426 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 16:40:24.949 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:40:30.967 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:40:34.069 | INFO     | SAB_HD | score=0.73 | status=LOGO PRESENT | retries=0
+2026-03-04 16:40:35.021 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:40:41.053 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:40:44.591 | INFO     | SAB_HD | score=0.68 | status=LOGO PRESENT | retries=0
+2026-03-04 16:40:45.094 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:40:51.049 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:40:54.776 | INFO     | SAB_HD | score=0.68 | status=LOGO PRESENT | retries=0
+2026-03-04 16:40:55.083 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:41:01.129 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:41:05.011 | INFO     | SAB_HD | score=0.68 | status=LOGO PRESENT | retries=0
+2026-03-04 16:41:05.162 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:41:11.169 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:41:14.742 | INFO     | SAB_HD | score=0.70 | status=LOGO PRESENT | retries=0
+2026-03-04 16:41:15.210 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:41:21.273 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:41:24.980 | INFO     | SAB_HD | score=0.70 | status=LOGO PRESENT | retries=0
+2026-03-04 16:41:25.311 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:41:31.282 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:41:31.681 | INFO     | System | score=N/A | status=Shutdown signal received, draining workers.
+2026-03-04 16:41:32.289 | WARNING  | Sony_Pal | score=N/A | status=STREAM_DOWN | retries=1 | error=scheduler stopping
+2026-03-04 16:41:32.297 | INFO     | System | score=N/A | status=Scheduler stopped.
+2026-03-04 16:42:19.912 | INFO     | System | score=N/A | status=Engine started with 2 streams, poll=10.0s, workers=2, recommended_workers=2.
+2026-03-04 16:42:19.928 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-04 16:42:21.471 | INFO     | SAB_HD | score=0.76 | status=WARMUP | retries=0
+2026-03-04 16:42:27.957 | INFO     | Sony_Pal | score=0.65 | status=WARMUP | retries=0
+2026-03-04 16:42:31.608 | INFO     | SAB_HD | score=0.68 | status=WARMUP | retries=0
+2026-03-04 16:42:38.408 | INFO     | Sony_Pal | score=0.66 | status=WARMUP | retries=0
+2026-03-04 16:42:42.191 | INFO     | SAB_HD | score=0.68 | status=LOGO PRESENT | retries=0
+2026-03-04 16:42:46.684 | INFO     | Sony_Pal | score=0.65 | status=LOGO PRESENT | retries=0
+2026-03-04 16:42:54.094 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:42:57.002 | INFO     | Sony_Pal | score=0.65 | status=LOGO PRESENT | retries=0
+2026-03-04 16:42:58.133 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:43:04.100 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:43:06.919 | INFO     | Sony_Pal | score=0.59 | status=LOGO MAYBE MISSING | retries=0
+2026-03-04 16:43:08.136 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:43:13.594 | INFO     | SAB_HD | score=0.68 | status=LOGO PRESENT | retries=0
+2026-03-04 16:43:18.171 | INFO     | Sony_Pal | score=0.67 | status=LOGO PRESENT | retries=0
+2026-03-04 16:43:23.862 | INFO     | SAB_HD | score=0.66 | status=LOGO PRESENT | retries=0
+2026-03-04 16:43:29.430 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:43:31.821 | INFO     | SAB_HD | score=0.66 | status=LOGO PRESENT | retries=0
+2026-03-04 16:43:33.476 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:43:34.904 | INFO     | System | score=N/A | status=Shutdown signal received, draining workers.
+2026-03-04 16:43:35.053 | INFO     | System | score=N/A | status=Scheduler stopped.
+2026-03-04 16:46:52.451 | INFO     | System | score=N/A | status=Engine started with 2 streams, poll=10.0s, workers=2, recommended_workers=2.
+2026-03-04 16:46:52.461 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-04 16:46:54.227 | INFO     | SAB_HD | score=0.76 | status=WARMUP | retries=0
+2026-03-04 16:47:01.498 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:47:04.444 | INFO     | SAB_HD | score=0.76 | status=WARMUP | retries=0
+2026-03-04 16:47:05.530 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:47:11.571 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:47:15.130 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 16:47:15.621 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:47:21.601 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:47:25.644 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:47:26.094 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-04 16:47:31.581 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:47:35.653 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:47:36.815 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:47:39.270 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=1
+2026-03-04 16:47:41.603 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:47:45.444 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 16:47:45.626 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:47:51.613 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:47:55.661 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:47:56.882 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:47:59.711 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=1
+2026-03-04 16:48:01.704 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:48:05.736 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:48:06.880 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:48:10.025 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=1
+2026-03-04 16:48:11.811 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:48:14.761 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-04 16:48:15.848 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:48:21.884 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:48:24.920 | INFO     | SAB_HD | score=0.74 | status=LOGO PRESENT | retries=0
+2026-03-04 16:48:25.934 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:48:31.899 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:48:34.193 | INFO     | SAB_HD | score=0.73 | status=LOGO PRESENT | retries=0
+2026-03-04 16:48:35.934 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:48:42.006 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:48:46.089 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:48:47.049 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:48:49.621 | INFO     | SAB_HD | score=0.74 | status=LOGO PRESENT | retries=1
+2026-03-04 16:48:52.091 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:48:55.893 | INFO     | SAB_HD | score=0.74 | status=LOGO PRESENT | retries=0
+2026-03-04 16:48:56.124 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:49:02.153 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:49:04.729 | INFO     | SAB_HD | score=0.71 | status=LOGO PRESENT | retries=0
+2026-03-04 16:49:06.199 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:49:12.212 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:49:14.919 | INFO     | SAB_HD | score=0.69 | status=LOGO PRESENT | retries=0
+2026-03-04 16:49:16.250 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:49:22.267 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:49:24.743 | INFO     | SAB_HD | score=0.73 | status=LOGO PRESENT | retries=0
+2026-03-04 16:49:25.281 | INFO     | Sony_Pal | score=0.66 | status=LOGO PRESENT | retries=1
+2026-03-04 16:49:29.593 | INFO     | Sony_Pal | score=0.67 | status=LOGO PRESENT | retries=0
+2026-03-04 16:49:35.563 | INFO     | SAB_HD | score=0.72 | status=LOGO PRESENT | retries=0
+2026-03-04 16:49:40.315 | INFO     | Sony_Pal | score=0.65 | status=LOGO PRESENT | retries=0
+2026-03-04 16:49:47.054 | INFO     | SAB_HD | score=0.73 | status=LOGO PRESENT | retries=0
+2026-03-04 16:49:51.391 | INFO     | Sony_Pal | score=0.65 | status=LOGO PRESENT | retries=0
+2026-03-04 16:49:54.503 | INFO     | SAB_HD | score=0.73 | status=LOGO PRESENT | retries=0
+2026-03-04 16:50:01.842 | INFO     | Sony_Pal | score=0.66 | status=LOGO PRESENT | retries=0
+2026-03-04 16:50:06.076 | INFO     | SAB_HD | score=0.72 | status=LOGO PRESENT | retries=0
+2026-03-04 16:50:09.851 | INFO     | Sony_Pal | score=0.65 | status=LOGO PRESENT | retries=0
+2026-03-04 16:50:17.526 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:50:19.955 | INFO     | Sony_Pal | score=0.65 | status=LOGO PRESENT | retries=0
+2026-03-04 16:50:20.421 | INFO     | SAB_HD | score=0.73 | status=LOGO PRESENT | retries=1
+2026-03-04 16:50:25.507 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 16:50:30.402 | INFO     | Sony_Pal | score=0.59 | status=LOGO MAYBE MISSING | retries=0
+2026-03-04 16:50:34.786 | INFO     | SAB_HD | score=0.74 | status=LOGO PRESENT | retries=0
+2026-03-04 16:50:41.605 | INFO     | Sony_Pal | score=0.67 | status=LOGO PRESENT | retries=0
+2026-03-04 16:50:45.913 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 16:50:52.532 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:50:55.130 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 16:50:56.580 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:50:59.942 | INFO     | Sony_Pal | score=0.65 | status=LOGO PRESENT | retries=0
+2026-03-04 16:51:06.781 | INFO     | SAB_HD | score=0.73 | status=LOGO PRESENT | retries=0
+2026-03-04 16:51:10.317 | INFO     | Sony_Pal | score=0.65 | status=LOGO PRESENT | retries=0
+2026-03-04 16:51:15.377 | INFO     | SAB_HD | score=0.73 | status=LOGO PRESENT | retries=0
+2026-03-04 16:51:20.344 | INFO     | Sony_Pal | score=0.65 | status=LOGO PRESENT | retries=0
+2026-03-04 16:51:25.362 | INFO     | SAB_HD | score=0.71 | status=LOGO PRESENT | retries=0
+2026-03-04 16:51:30.522 | INFO     | Sony_Pal | score=0.65 | status=LOGO PRESENT | retries=0
+2026-03-04 16:51:35.370 | INFO     | SAB_HD | score=0.69 | status=LOGO PRESENT | retries=0
+2026-03-04 16:51:42.650 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:51:46.733 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:51:47.934 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:51:50.499 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=1
+2026-03-04 16:51:52.732 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:51:56.061 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-04 16:51:56.766 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:52:02.733 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:52:05.335 | INFO     | SAB_HD | score=0.70 | status=LOGO PRESENT | retries=0
+2026-03-04 16:52:06.761 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:52:12.786 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:52:16.812 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:52:17.831 | INFO     | SAB_HD | score=0.72 | status=LOGO PRESENT | retries=0
+2026-03-04 16:52:22.800 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:52:25.380 | INFO     | SAB_HD | score=0.74 | status=LOGO PRESENT | retries=0
+2026-03-04 16:52:26.836 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:52:32.800 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:52:35.680 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-04 16:52:36.836 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:52:42.854 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:52:46.280 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-04 16:52:46.888 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:52:52.937 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:52:56.512 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-04 16:52:56.963 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:53:02.939 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:53:05.763 | INFO     | SAB_HD | score=0.71 | status=LOGO PRESENT | retries=0
+2026-03-04 16:53:06.972 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:53:12.972 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:53:17.070 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:53:18.382 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:53:22.457 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:53:23.057 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:53:27.079 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:53:28.429 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:53:32.461 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:53:33.107 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:53:37.412 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:53:39.057 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:53:43.369 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:53:43.372 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:53:47.774 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:53:48.676 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:53:53.309 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:53:53.332 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:53:58.207 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:53:58.545 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:54:02.667 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:54:03.350 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:54:07.641 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:54:08.679 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:54:12.719 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:54:13.405 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:54:17.421 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:54:18.637 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:54:22.674 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:54:23.439 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:54:27.498 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:54:28.647 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:54:32.684 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:54:33.551 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:54:37.411 | INFO     | SAB_HD | score=0.74 | status=LOGO PRESENT | retries=0
+2026-03-04 16:54:37.571 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:54:43.549 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:54:46.428 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 16:54:47.568 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:54:53.529 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:54:56.757 | INFO     | SAB_HD | score=0.71 | status=LOGO PRESENT | retries=0
+2026-03-04 16:54:57.571 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:55:03.599 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:55:06.739 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 16:55:07.630 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:55:13.679 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:55:16.324 | INFO     | SAB_HD | score=0.74 | status=LOGO PRESENT | retries=0
+2026-03-04 16:55:17.721 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:55:23.449 | INFO     | System | score=N/A | status=Shutdown signal received, draining workers.
+2026-03-04 16:55:23.503 | WARNING  | Sony_Pal capture failed (attempt 1/2): no packets received. Retrying in 1.00s.
+2026-03-04 16:55:24.506 | WARNING  | Sony_Pal | score=N/A | status=STREAM_DOWN | retries=1 | error=scheduler stopping
+2026-03-04 16:55:24.510 | INFO     | System | score=N/A | status=Scheduler stopped.
+2026-03-04 16:57:37.080 | INFO     | System | score=N/A | status=Engine started with 2 streams, poll=10.0s, workers=2, recommended_workers=2.
+2026-03-04 16:57:37.080 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-04 16:57:41.133 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:57:43.271 | INFO     | SAB_HD | score=0.75 | status=WARMUP | retries=1
+2026-03-04 16:57:43.709 | INFO     | Sony_Pal | score=0.67 | status=WARMUP | retries=0
+2026-03-04 16:57:51.179 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:57:55.128 | INFO     | SAB_HD | score=0.75 | status=WARMUP | retries=1
+2026-03-04 16:57:56.293 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:58:00.013 | INFO     | SAB_HD | score=0.68 | status=LOGO PRESENT | retries=0
+2026-03-04 16:58:00.338 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 16:58:06.283 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:58:08.803 | INFO     | Sony_Pal | score=0.67 | status=LOGO PRESENT | retries=1
+2026-03-04 16:58:09.776 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 16:58:15.430 | INFO     | Sony_Pal | score=0.67 | status=LOGO PRESENT | retries=0
+2026-03-04 16:58:19.031 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 16:58:23.846 | INFO     | Sony_Pal | score=0.67 | status=LOGO PRESENT | retries=0
+2026-03-04 16:58:28.726 | INFO     | SAB_HD | score=0.69 | status=LOGO PRESENT | retries=0
+2026-03-04 16:58:33.981 | INFO     | Sony_Pal | score=0.67 | status=LOGO PRESENT | retries=0
+2026-03-04 16:58:38.942 | INFO     | SAB_HD | score=0.69 | status=LOGO PRESENT | retries=0
+2026-03-04 16:58:44.287 | INFO     | Sony_Pal | score=0.66 | status=LOGO PRESENT | retries=0
+2026-03-04 16:58:49.239 | INFO     | SAB_HD | score=0.69 | status=LOGO PRESENT | retries=0
+2026-03-04 16:58:53.910 | INFO     | Sony_Pal | score=0.65 | status=LOGO PRESENT | retries=0
+2026-03-04 16:58:58.957 | INFO     | SAB_HD | score=0.66 | status=LOGO PRESENT | retries=0
+2026-03-04 16:59:04.052 | INFO     | Sony_Pal | score=0.67 | status=LOGO PRESENT | retries=0
+2026-03-04 16:59:11.331 | INFO     | SAB_HD | score=0.66 | status=LOGO PRESENT | retries=0
+2026-03-04 16:59:14.057 | INFO     | Sony_Pal | score=0.67 | status=LOGO PRESENT | retries=0
+2026-03-04 16:59:18.743 | INFO     | SAB_HD | score=0.66 | status=LOGO PRESENT | retries=0
+2026-03-04 16:59:24.001 | INFO     | Sony_Pal | score=0.49 | status=LOGO MISSING | retries=0
+2026-03-04 16:59:31.229 | INFO     | SAB_HD | score=0.66 | status=LOGO PRESENT | retries=0
+2026-03-04 16:59:36.733 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:59:39.012 | INFO     | Sony_Pal | score=0.67 | status=LOGO PRESENT | retries=1
+2026-03-04 16:59:40.080 | INFO     | SAB_HD | score=0.72 | status=LOGO PRESENT | retries=0
+2026-03-04 16:59:44.122 | INFO     | Sony_Pal | score=0.67 | status=LOGO PRESENT | retries=0
+2026-03-04 16:59:50.229 | INFO     | SAB_HD | score=0.69 | status=LOGO PRESENT | retries=0
+2026-03-04 16:59:56.788 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 16:59:59.166 | INFO     | SAB_HD | score=0.69 | status=LOGO PRESENT | retries=0
+2026-03-04 17:00:00.840 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:00:06.904 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:00:08.779 | INFO     | SAB_HD | score=0.73 | status=LOGO PRESENT | retries=0
+2026-03-04 17:00:10.938 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:00:16.970 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:00:20.771 | INFO     | SAB_HD | score=0.69 | status=LOGO PRESENT | retries=0
+2026-03-04 17:00:21.021 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:00:26.993 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:00:28.745 | INFO     | SAB_HD | score=0.73 | status=LOGO PRESENT | retries=0
+2026-03-04 17:00:31.029 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:00:37.032 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:00:38.856 | INFO     | SAB_HD | score=0.74 | status=LOGO PRESENT | retries=0
+2026-03-04 17:00:41.080 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:00:47.101 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:00:49.596 | INFO     | SAB_HD | score=0.72 | status=LOGO PRESENT | retries=0
+2026-03-04 17:00:51.137 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:00:57.084 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:01:00.866 | INFO     | SAB_HD | score=0.70 | status=LOGO PRESENT | retries=0
+2026-03-04 17:01:01.111 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:01:07.134 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:01:09.826 | INFO     | SAB_HD | score=0.70 | status=LOGO PRESENT | retries=0
+2026-03-04 17:01:11.166 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:01:17.183 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:01:20.430 | INFO     | SAB_HD | score=0.72 | status=LOGO PRESENT | retries=0
+2026-03-04 17:01:21.211 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:01:27.265 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:01:29.279 | INFO     | SAB_HD | score=0.72 | status=LOGO PRESENT | retries=0
+2026-03-04 17:01:31.321 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:01:37.288 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:01:39.434 | INFO     | SAB_HD | score=0.71 | status=LOGO PRESENT | retries=0
+2026-03-04 17:01:41.328 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:01:47.310 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:01:51.330 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:01:51.750 | INFO     | SAB_HD | score=0.71 | status=LOGO PRESENT | retries=0
+2026-03-04 17:01:57.310 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:01:59.661 | INFO     | SAB_HD | score=0.71 | status=LOGO PRESENT | retries=0
+2026-03-04 17:02:01.362 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:02:07.338 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:02:10.456 | INFO     | SAB_HD | score=0.70 | status=LOGO PRESENT | retries=0
+2026-03-04 17:02:11.380 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:02:17.393 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:02:20.479 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 17:02:21.408 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:02:27.444 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:02:31.476 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:02:31.695 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 17:02:37.531 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:02:40.075 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-04 17:02:41.561 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:02:47.526 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:02:51.129 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 17:02:51.573 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:02:57.612 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:03:00.826 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 17:03:01.644 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:03:07.643 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:03:10.107 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-04 17:03:11.695 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:03:17.674 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:03:21.747 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:03:22.341 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:03:25.021 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=1
+2026-03-04 17:03:27.760 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:03:29.571 | INFO     | SAB_HD | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-04 17:03:31.786 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:03:37.829 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:03:41.069 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-04 17:03:41.857 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:03:47.847 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:03:51.871 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:03:52.120 | INFO     | SAB_HD | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-04 17:03:57.953 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:04:01.989 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:04:02.465 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:04:05.561 | INFO     | SAB_HD | score=0.74 | status=LOGO PRESENT | retries=1
+2026-03-04 17:04:07.047 | INFO     | Sony_Pal | score=0.66 | status=LOGO PRESENT | retries=0
+2026-03-04 17:04:11.043 | INFO     | SAB_HD | score=0.74 | status=LOGO PRESENT | retries=0
+2026-03-04 17:04:15.470 | INFO     | Sony_Pal | score=0.67 | status=LOGO PRESENT | retries=0
+2026-03-04 17:04:19.994 | INFO     | SAB_HD | score=0.73 | status=LOGO PRESENT | retries=0
+2026-03-04 17:04:25.326 | INFO     | Sony_Pal | score=0.65 | status=LOGO PRESENT | retries=0
+2026-03-04 17:04:30.111 | INFO     | SAB_HD | score=0.74 | status=LOGO PRESENT | retries=0
+2026-03-04 17:04:35.601 | INFO     | Sony_Pal | score=0.65 | status=LOGO PRESENT | retries=0
+2026-03-04 17:12:03.099 | INFO     | System | score=N/A | status=Engine started with 2 streams, poll=10.0s, workers=2, recommended_workers=2.
+2026-03-04 17:12:03.108 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-04 17:12:07.143 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:12:11.160 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:12:12.112 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:12:16.143 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:12:17.127 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:12:21.143 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:12:22.165 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:12:26.197 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:12:27.197 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:12:31.212 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:12:32.243 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:12:36.280 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:12:37.213 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:12:41.238 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:12:42.279 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:12:46.306 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:12:47.287 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:12:51.308 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:12:52.334 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:12:56.358 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:12:57.401 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:13:01.436 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:13:02.467 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:13:06.567 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:13:07.431 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:13:11.503 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:13:12.486 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:13:16.511 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:13:17.496 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:13:21.530 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:13:22.563 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:13:26.593 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:13:27.571 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:13:31.779 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:13:32.582 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:13:36.608 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:13:37.595 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:13:41.630 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:13:42.647 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:13:46.232 | WARNING  | Sony_Pal | score=N/A | status=STREAM_DECODE_ERROR | retries=1 | error=decoder failure: error opening input file udp://@239.1.1.1:1235.
+2026-03-04 17:16:44.049 | INFO     | System | score=N/A | status=Engine started with 2 streams, poll=10.0s, workers=2, recommended_workers=2.
+2026-03-04 17:16:44.067 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-04 17:16:48.112 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:16:52.193 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:16:53.158 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:16:57.223 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:16:58.182 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:17:02.223 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:17:03.131 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:17:07.156 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:17:08.264 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:17:12.293 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:17:13.162 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:17:17.196 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:17:18.347 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:17:22.608 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:17:23.240 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:17:27.295 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:17:28.495 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:17:32.733 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:17:33.277 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:17:37.444 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:17:38.641 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:17:42.669 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:17:43.269 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:17:47.307 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:17:48.464 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:17:52.494 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:17:53.306 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:17:57.355 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:17:58.516 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:18:02.547 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:18:03.372 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:18:07.389 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:18:08.586 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:18:12.624 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:18:13.450 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:18:17.481 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:18:18.620 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:18:22.653 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:18:23.444 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:18:27.462 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:18:28.632 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:18:32.676 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:18:33.476 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:18:37.498 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:18:38.729 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:18:42.759 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:18:43.495 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:18:47.531 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:18:48.729 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:18:52.801 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:18:53.582 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:18:57.720 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:18:58.749 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:19:02.779 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:19:03.593 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:19:07.611 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:19:08.779 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:19:12.811 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:19:13.621 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:19:17.657 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:19:18.852 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:19:22.893 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:19:23.705 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:19:27.726 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:19:28.861 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:19:32.893 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:19:33.774 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:19:37.779 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:19:38.894 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:19:42.919 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:19:43.790 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:19:47.804 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:19:48.906 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:19:52.921 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:19:53.849 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:19:57.861 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:19:58.927 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:20:02.949 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:20:03.857 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-04 17:20:07.903 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-04 17:20:09.023 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.

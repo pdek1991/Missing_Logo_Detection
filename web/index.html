@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#05070f" />
+  <title>Missing Logo Detector</title>
+  <link rel="manifest" href="/manifest.json" />
+  <link rel="icon" href="/favicon.ico" sizes="any" />
+  <link rel="apple-touch-icon" href="/assets/icons/favicon-180x180.png" />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+
+<body>
+  <div class="app-shell">
+    <header class="top-bar glass-panel">
+      <div class="header-left">
+        <p id="lastUpdated" class="last-updated">Last Updated: --:--:--</p>
+        <h1>Missing Logo Detector</h1>
+      </div>
+
+      <div class="header-right">
+        <div class="summary-badges" aria-label="Current alarm summary">
+          <span class="badge badge-red">RED <strong id="countRed">0</strong></span>
+          <span class="badge badge-yellow">YELLOW <strong id="countYellow">0</strong></span>
+          <span class="badge badge-green">GREEN <strong id="countGreen">0</strong></span>
+        </div>
+        <img class="header-logo" src="/assets/media/logo.gif" alt="Monitoring logo" />
+      </div>
+    </header>
+
+    <main class="grid-wrapper">
+      <section id="channelGrid" class="channel-grid" aria-live="polite"></section>
+    </main>
+  </div>
+
+  <div id="alertBackdrop" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="alertTitle">
+    <div class="modal-card glass-panel">
+      <h2 id="alertTitle">ALERT: Missing Logo Detected</h2>
+      <p id="alertChannel">Channel: --</p>
+      <p id="alertTime">Time: --</p>
+      <button id="ackButton" class="ack-button" type="button">ACKNOWLEDGE</button>
+    </div>
+  </div>
+
+  <audio id="alarmAudio" preload="auto" src="/assets/media/audio.mp3"></audio>
+  <script src="/app.js" defer></script>
+</body>
+
+</html>
