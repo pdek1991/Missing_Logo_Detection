@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#05070f" />
+  <title>Missing Logo Detector</title>
+  <link rel="manifest" href="/manifest.json?v=20260317" />
+  <link rel="icon" href="/runtime-logo" sizes="any" />
+  <link rel="apple-touch-icon" href="/runtime-logo" />
+  <link rel="stylesheet" href="/styles.css?v=20260317" />
+</head>
+
+<body>
+  <div class="app-shell">
+    <header class="top-bar glass-panel">
+      <div class="header-left">
+        <h1>Missing Logo Detector</h1>
+        <p id="lastUpdated" class="last-updated">Last Updated: --:--:--</p>
+      </div>
+
+      <div class="header-right">
+        <div id="summaryBadges" class="summary-badges hidden" aria-label="Current alarm summary">
+          <span class="badge badge-red">RED <strong id="countRed">0</strong></span>
+          <span class="badge badge-yellow">YELLOW <strong id="countYellow">0</strong></span>
+          <span class="badge badge-green">GREEN <strong id="countGreen">0</strong></span>
+          <span class="badge badge-white">WHITE <strong id="countWhite">0</strong></span>
+        </div>
+        <img class="header-logo" src="/runtime-logo" alt="Monitoring logo" onerror="this.src='/favicon.ico';" />
+      </div>
+    </header>
+
+    <main class="grid-wrapper">
+      <section id="channelGrid" class="channel-grid" aria-live="polite"></section>
+    </main>
+  </div>
+
+  <section id="alarmPopup" class="alarm-popup hidden" aria-live="assertive" aria-atomic="true">
+    <div class="alarm-card glass-panel">
+      <h2>Critical Alert</h2>
+      <p id="alarmChannel">Channel: --</p>
+      <p id="alarmStatus">Status: --</p>
+      <p id="alarmTime">Detected: --</p>
+      <div id="snoozeControls" class="snooze-controls hidden">
+        <label for="snoozeRange">Snooze Stream Alarm</label>
+        <input id="snoozeRange" class="snooze-range" type="range" min="5" max="10080" step="5" value="60" />
+        <p id="snoozeValue" class="snooze-value">Duration: 1h 0m</p>
+        <button id="snoozeButton" class="alarm-snooze-button" type="button">Snooze</button>
+      </div>
+      <button id="alarmAckButton" class="alarm-ack-button" type="button">Acknowledge</button>
+    </div>
+  </section>
+
+  <audio id="alarmAudio" preload="auto" src="/assets/media/audio.mp3" loop></audio>
+  <script src="/app.js?v=20260317" defer></script>
+</body>
+
+</html>

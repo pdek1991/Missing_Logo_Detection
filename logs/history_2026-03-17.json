@@ -1,0 +1,51 @@
+[
+  {
+    "channel": "SAB_HD",
+    "off_time": "2026-03-17 21:10:01",
+    "recover_time": "2026-03-17 21:10:17",
+    "duration_seconds": 16,
+    "duration": "00:00:16"
+  },
+  {
+    "channel": "SAB_HD",
+    "off_time": "2026-03-17 22:05:03",
+    "recover_time": "2026-03-17 22:05:27",
+    "duration_seconds": 24,
+    "duration": "00:00:24"
+  },
+  {
+    "channel": "Sony_Pal",
+    "off_time": "2026-03-17 22:29:25",
+    "recover_time": "2026-03-17 22:30:53",
+    "duration_seconds": 88,
+    "duration": "00:01:28"
+  },
+  {
+    "channel": "SAB_HD",
+    "off_time": "2026-03-17 22:52:48",
+    "recover_time": "2026-03-17 22:52:56",
+    "duration_seconds": 8,
+    "duration": "00:00:08"
+  },
+  {
+    "channel": "Sony_Pal",
+    "off_time": "2026-03-17 22:57:38",
+    "recover_time": "2026-03-17 22:58:03",
+    "duration_seconds": 25,
+    "duration": "00:00:25"
+  },
+  {
+    "channel": "SAB_HD",
+    "off_time": "2026-03-17 23:03:57",
+    "recover_time": "2026-03-17 23:04:01",
+    "duration_seconds": 4,
+    "duration": "00:00:04"
+  },
+  {
+    "channel": "SAB_HD",
+    "off_time": "2026-03-17 23:05:47",
+    "recover_time": "2026-03-17 23:09:38",
+    "duration_seconds": 231,
+    "duration": "00:03:51"
+  }
+]

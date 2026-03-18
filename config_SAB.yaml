@@ -1,0 +1,15 @@
+streams:
+  - name: SAB_HD
+    url: udp://@239.1.1.1:1234
+    resolution_type: HD
+    template_path: logos/Sony_Pal.png
+    threshold_yellow: 0.80
+    threshold_red: 0.65
+    fps_check: 1
+    scan_cycle_seconds: 5
+    roi:
+      x: 490
+      y: 33
+      width: 55
+      height: 58
+

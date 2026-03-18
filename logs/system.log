@@ -1,0 +1,1837 @@
+2026-03-18 09:50:53.377 | INFO     | Starting Logo Detector Scheduler (Autonomous Restart Loop)...
+2026-03-18 09:50:53.467 | WARNING  | Stream 'Sports_HD': Template file not found or invalid (logos/Sports_Logo.png). Flagging as MISSING TEMPLATE.
+2026-03-18 09:50:53.474 | INFO     | System | score=N/A | status=Engine started with 3 streams, poll=1.0s, workers=50, recommended_workers=19.
+2026-03-18 09:50:53.507 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-18 09:50:54.147 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:50:54.582 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:50:54.806 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:50:55.208 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:50:55.488 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.27s.
+2026-03-18 09:50:55.598 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.27s.
+2026-03-18 09:50:55.972 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:50:55.988 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:50:56.207 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:50:56.563 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:50:56.774 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:50:56.836 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.34s.
+2026-03-18 09:50:56.899 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:50:57.423 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:50:57.503 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:50:57.723 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:50:58.067 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:50:58.230 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:50:58.668 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:50:58.770 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:50:58.920 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:50:59.364 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:50:59.604 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:50:59.804 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:50:59.995 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:00.274 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:00.694 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.36s.
+2026-03-18 09:51:00.854 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:01.029 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:01.266 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:01.614 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:01.847 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:02.014 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:02.375 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:02.652 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:02.855 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:02.962 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:03.354 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:03.681 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:03.861 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:03.973 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:04.304 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:04.714 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:04.949 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:05.047 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:05.302 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:05.639 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:05.999 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:06.060 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:06.306 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:06.611 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:06.998 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:07.104 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:07.291 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:07.717 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:07.899 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:08.110 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:08.127 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=1
+2026-03-18 09:51:08.244 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:08.599 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:09.174 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:09.232 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:09.293 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:09.904 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:10.184 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:10.308 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:10.571 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:11.212 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:11.255 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:11.366 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:11.867 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:12.305 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:12.420 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:12.583 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.36s.
+2026-03-18 09:51:13.174 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:13.328 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:13.435 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:13.834 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:14.409 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:14.542 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:14.552 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:15.265 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:15.482 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:15.611 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:15.917 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:16.473 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:16.537 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:16.607 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:17.200 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:17.509 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:17.638 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:17.884 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:18.519 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:18.534 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:18.706 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:19.375 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.33s.
+2026-03-18 09:51:19.555 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:19.767 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:19.954 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:20.639 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:20.646 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:20.854 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:21.267 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:21.651 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:21.889 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:21.976 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.34s.
+2026-03-18 09:51:22.601 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:22.690 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:22.912 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:23.315 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:23.688 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:23.905 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:23.972 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:24.649 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:24.731 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:24.948 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:25.263 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:25.832 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:25.905 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:26.054 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:26.517 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:26.931 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:27.040 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:27.265 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.34s.
+2026-03-18 09:51:27.846 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:27.971 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:28.071 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:28.581 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:29.019 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:29.131 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:29.324 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:29.974 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:30.063 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:30.220 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:30.747 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:31.111 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:31.237 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:31.448 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.36s.
+2026-03-18 09:51:32.039 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:32.210 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:32.323 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:32.704 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:33.215 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:33.316 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:33.340 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:33.947 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:34.236 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:34.356 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:34.567 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:35.204 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:35.259 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:35.385 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:35.822 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:36.354 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:36.464 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:36.531 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:37.122 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:37.349 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:37.559 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:37.738 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:38.350 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:38.431 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:38.660 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:39.054 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:39.518 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:39.654 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:39.739 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:40.356 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:40.626 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:40.831 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:40.982 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:41.689 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:41.689 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:41.908 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:42.289 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:42.698 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:42.919 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:42.989 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.36s.
+2026-03-18 09:51:43.568 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:43.789 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:44.008 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:44.289 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:44.820 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:44.887 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:45.031 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:45.539 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:45.854 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:46.081 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:46.154 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:46.799 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:46.856 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:47.081 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:47.398 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:47.888 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:48.054 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:48.123 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:48.672 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:48.909 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:49.122 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:49.402 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:49.906 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:49.989 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:50.134 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:50.639 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:50.912 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:51.131 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:51.231 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:51.958 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.36s.
+2026-03-18 09:51:51.995 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:52.217 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:52.546 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:53.082 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:53.267 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:53.308 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:53.881 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:54.168 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:54.381 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:54.578 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:55.196 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:55.248 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:55.475 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:55.851 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:56.248 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:56.563 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:56.569 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:57.201 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:51:57.323 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:57.645 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:57.851 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:58.309 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:58.558 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:51:58.662 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:59.180 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:51:59.348 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:59.668 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:51:59.825 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:52:00.432 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:00.432 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:00.780 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:01.184 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.36s.
+2026-03-18 09:52:01.527 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:01.804 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:01.811 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:02.602 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.31s.
+2026-03-18 09:52:02.617 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:02.854 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:03.204 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:03.689 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:03.904 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:03.944 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.34s.
+2026-03-18 09:52:04.539 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:04.768 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:04.986 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:05.358 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.30s.
+2026-03-18 09:52:05.835 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:05.898 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:06.054 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:06.555 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:52:06.855 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:07.076 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:07.155 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:07.816 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:52:07.937 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:08.171 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:08.483 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:08.951 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:09.116 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:52:09.169 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:09.711 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:10.004 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:10.235 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:10.380 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:52:10.989 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:10.989 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:11.312 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:11.720 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:52:12.089 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:12.305 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:12.307 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:13.013 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:52:13.198 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:13.317 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:13.616 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:14.249 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:14.281 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:52:14.368 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:14.880 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:15.334 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:15.478 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:15.552 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.36s.
+2026-03-18 09:52:16.138 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:16.355 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:16.566 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:16.882 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.36s.
+2026-03-18 09:52:17.447 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:17.452 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:17.566 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:18.189 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:52:18.445 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:18.661 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:18.796 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:19.481 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:52:19.541 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:19.678 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:20.106 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:20.625 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:20.739 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:20.822 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:52:21.689 | INFO     | System | score=N/A | status=Shutdown signal received, draining workers.
+2026-03-18 09:52:21.789 | WARNING  | Sports_HD | score=N/A | status=STREAM_DOWN | retries=1 | error=scheduler stopping
+2026-03-18 09:52:28.889 | INFO     | System | score=N/A | status=Scheduler stopped.
+2026-03-18 09:52:36.952 | INFO     | Starting Logo Detector Scheduler (Autonomous Restart Loop)...
+2026-03-18 09:52:39.586 | WARNING  | Stream 'Sports_HD': Template file not found or invalid (logos/Sports_Logo.png). Flagging as MISSING TEMPLATE.
+2026-03-18 09:52:39.586 | INFO     | System | score=N/A | status=Engine started with 3 streams, poll=10.0s, workers=50, recommended_workers=2.
+2026-03-18 09:52:39.616 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-18 09:52:40.289 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:52:40.754 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 0.36s.
+2026-03-18 09:52:40.872 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:41.322 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:41.522 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:52:41.988 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 0.37s.
+2026-03-18 09:52:42.104 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:42.572 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:42.754 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 0.36s.
+2026-03-18 09:52:43.130 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=1
+2026-03-18 09:52:43.139 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:43.287 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 0.39s.
+2026-03-18 09:52:43.689 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=1
+2026-03-18 09:52:43.806 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:44.222 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:44.688 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:52:44.808 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:45.256 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:45.811 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:46.249 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:46.812 | WARNING  | Sony_Pal | score=0.11 | status=LOGO MISSING SUSPECTED | retries=0 | waiting_for_recheck
+2026-03-18 09:52:46.815 | WARNING  | Sony_Pal | score=0.11 | status=RECHECK 1/5 | missing=true
+2026-03-18 09:52:47.260 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:47.822 | WARNING  | Sony_Pal | score=0.06 | status=RECHECK 2/5 | missing=true
+2026-03-18 09:52:48.272 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:48.704 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:48.826 | WARNING  | Sony_Pal | score=0.18 | status=RECHECK 3/5 | missing=true
+2026-03-18 09:52:49.272 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:49.827 | INFO     | Sony_Pal | score=0.79 | status=RECHECK 4/5 | missing=false
+2026-03-18 09:52:50.327 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:50.822 | INFO     | Sony_Pal | score=0.79 | status=RECHECK 5/5 | missing=false
+2026-03-18 09:52:50.827 | INFO     | Sony_Pal | score=0.11 | status=LOGO PRESENT | recheck=3/5 | false_alarm=true
+2026-03-18 09:52:50.907 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:51.350 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:51.907 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:52.466 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:52.908 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:53.489 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:53.926 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:54.607 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:54.688 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:52:54.942 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:55.697 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:56.024 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:56.789 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:57.112 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:57.886 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:58.206 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:58.726 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:52:58.901 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:59.266 | INFO     | Sony_Pal | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-18 09:52:59.941 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:00.291 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:00.972 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:01.306 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:02.057 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:02.389 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:03.057 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:03.397 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:04.066 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:04.411 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:04.762 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:53:05.081 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:05.416 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:06.081 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:06.512 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:07.147 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:07.621 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:08.151 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:08.704 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:08.801 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:53:09.148 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:09.714 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:10.148 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:10.818 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:11.166 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:11.824 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:12.280 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:12.851 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:13.307 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:13.852 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:14.292 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:14.819 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:53:14.857 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:15.396 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:15.910 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:16.438 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:16.972 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:17.458 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:18.077 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:18.557 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:18.890 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:53:19.136 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:19.572 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:20.216 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:20.652 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:21.222 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:21.686 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:22.253 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:22.686 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:23.355 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:23.696 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:24.362 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:24.685 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:24.881 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:53:25.432 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:25.754 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:26.433 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:26.847 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:27.522 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:27.869 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:28.563 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:28.881 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:53:28.881 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:29.566 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:29.908 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:30.587 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:30.909 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:31.576 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:31.897 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:32.684 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:32.897 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:33.766 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:33.981 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:34.759 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:34.904 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:53:34.981 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:35.856 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:36.083 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:36.905 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:37.129 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:37.917 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:38.132 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:38.933 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:53:39.006 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:39.213 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:40.081 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:40.304 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:41.082 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:41.313 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:42.072 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:42.410 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:43.154 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:43.482 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:44.262 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:44.579 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:44.962 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:53:45.254 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:45.577 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:46.354 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:46.581 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:47.370 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:47.596 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:48.381 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:48.610 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:48.979 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:53:49.397 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:49.631 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:50.423 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:50.633 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:51.513 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:51.634 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:52.540 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:52.666 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:53:53.305 | INFO     | System | score=N/A | status=Shutdown signal received, draining workers.
+2026-03-18 09:53:55.080 | WARNING  | Sports_HD capture failed (attempt 1/2): reader stopped. Retrying in 1.00s.
+2026-03-18 09:53:56.088 | WARNING  | Sports_HD | score=N/A | status=STREAM_DOWN | retries=1 | error=scheduler stopping
+2026-03-18 09:54:01.109 | INFO     | System | score=N/A | status=Scheduler stopped.
+2026-03-18 09:56:56.054 | INFO     | Starting Logo Detector Scheduler (Autonomous Restart Loop)...
+2026-03-18 09:56:56.132 | WARNING  | Stream 'Sports_HD': Template file not found or invalid (logos/Sports_Logo.png). Flagging as MISSING TEMPLATE.
+2026-03-18 09:56:56.151 | INFO     | System | score=N/A | status=Engine started with 3 streams, poll=5.0s, workers=50, recommended_workers=4.
+2026-03-18 09:56:56.177 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-18 09:56:59.189 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:56:59.654 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:57:00.222 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:57:02.176 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:57:02.639 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:57:03.239 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:57:05.286 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:57:05.701 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:57:06.261 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:57:08.211 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:57:08.676 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:57:09.254 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:57:11.272 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:11.746 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:57:12.304 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:57:13.358 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:14.754 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:57:15.291 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:57:17.822 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:57:18.382 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:57:18.451 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:20.668 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=1
+2026-03-18 09:57:20.686 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:21.387 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:57:23.511 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:24.476 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:57:25.695 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:27.475 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:57:28.582 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:30.581 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:57:30.781 | INFO     | Sony_Pal | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:33.595 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:57:33.678 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:35.858 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:36.689 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:57:38.717 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:39.661 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:57:40.930 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:42.704 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:57:43.723 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:45.695 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:57:46.006 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:48.726 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:48.802 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:57:51.059 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:51.776 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:57:53.822 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:54.859 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:57:56.112 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:57:57.866 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:57:58.881 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:00.895 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:58:01.122 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:03.911 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:58:03.926 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:06.211 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:06.939 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:58:09.016 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:09.958 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:58:11.309 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:13.004 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:58:14.062 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:16.004 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:58:16.304 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:19.079 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:19.104 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:58:21.419 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:22.084 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:58:24.096 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:25.193 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:58:26.410 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:28.176 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:58:29.139 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:31.261 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:58:31.482 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:34.222 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:34.259 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:58:36.478 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:37.345 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:58:39.326 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:40.345 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:58:41.558 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:43.472 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:58:44.384 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:46.472 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:58:46.554 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:49.426 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:49.581 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:58:51.662 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:52.554 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:58:54.425 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:55.639 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:58:56.743 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:58:58.654 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:58:59.484 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:01.739 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:59:01.822 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:04.476 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:04.747 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:59:06.905 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:07.822 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:59:09.539 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:10.826 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:59:11.989 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:13.866 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:59:14.560 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:16.889 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:59:17.049 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:19.654 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:19.945 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:59:22.055 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:22.958 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:59:24.681 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:26.024 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:59:27.074 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:29.028 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:59:29.689 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:32.100 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:32.115 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:59:34.722 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:35.141 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:59:37.131 | WARNING  | Sony_Pal | score=0.00 | status=LOGO MISSING SUSPECTED | retries=0 | waiting_for_recheck
+2026-03-18 09:59:37.163 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 1/5 | missing=true
+2026-03-18 09:59:38.167 | WARNING  | Sony_Pal | score=0.11 | status=RECHECK 2/5 | missing=true
+2026-03-18 09:59:38.183 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:59:39.176 | WARNING  | Sony_Pal | score=0.52 | status=RECHECK 3/5 | missing=true
+2026-03-18 09:59:39.807 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:40.176 | INFO     | Sony_Pal | score=0.79 | status=RECHECK 4/5 | missing=false
+2026-03-18 09:59:41.180 | INFO     | Sony_Pal | score=0.78 | status=RECHECK 5/5 | missing=false
+2026-03-18 09:59:41.180 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:59:41.180 | INFO     | Sony_Pal | score=0.00 | status=LOGO PRESENT | recheck=3/5 | false_alarm=true
+2026-03-18 09:59:42.150 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:44.233 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:59:44.842 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:47.132 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:47.233 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:59:49.909 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:50.339 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:59:52.149 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:53.345 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:59:54.951 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:56.473 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 09:59:57.208 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 09:59:59.490 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 09:59:59.995 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:02.290 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:02.574 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:00:05.013 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:05.581 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:00:07.326 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:08.690 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:00:10.054 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:11.721 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:00:12.400 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:14.862 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:00:15.165 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:17.421 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:17.846 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:00:20.213 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:20.895 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:00:22.504 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:23.924 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:00:25.323 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:27.025 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:00:27.508 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:30.022 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:00:30.383 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:32.526 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:33.145 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:00:35.426 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:36.162 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:00:37.526 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:39.182 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:00:40.483 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:42.191 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:00:42.555 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:45.256 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:00:45.508 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:47.607 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:48.254 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:00:50.540 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:51.304 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:00:54.304 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:00:55.577 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:00:55.689 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:00:57.388 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:00:58.689 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:01:00.387 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:01:00.589 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:01:01.822 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:01:03.504 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:01:04.832 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:01:05.662 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:01:06.522 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:01:07.922 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:01:09.552 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:01:10.708 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:01:10.912 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:01:12.554 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:01:14.032 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:01:15.640 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:01:15.739 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:01:17.021 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:01:18.623 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:01:20.072 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:01:20.740 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:01:21.638 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:01:23.054 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:01:24.639 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:01:25.773 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:01:26.128 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:01:27.690 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:01:29.089 | WARNING  | Sony_Pal | score=0.07 | status=LOGO MISSING SUSPECTED | retries=1 | waiting_for_recheck
+2026-03-18 10:01:29.109 | WARNING  | Sony_Pal | score=0.07 | status=RECHECK 1/5 | missing=true
+2026-03-18 10:01:30.109 | WARNING  | Sony_Pal | score=0.07 | status=RECHECK 2/5 | missing=true
+2026-03-18 10:01:30.681 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:01:30.804 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:01:31.104 | WARNING  | Sony_Pal | score=0.07 | status=RECHECK 3/5 | missing=true
+2026-03-18 10:01:32.104 | WARNING  | Sony_Pal | score=0.07 | status=RECHECK 4/5 | missing=true
+2026-03-18 10:01:33.117 | WARNING  | Sony_Pal | score=0.07 | status=RECHECK 5/5 | missing=true
+2026-03-18 10:01:33.117 | INFO     | Incident recorded for channel 'Sony_Pal'
+2026-03-18 10:01:33.117 | INFO     | Sony_Pal | score=0.07 | status=MISSING DETECTED | recheck=5/5
+2026-03-18 10:01:33.168 | WARNING  | Sony_Pal | score=0.07 | status=LOGO MISSING SUSPECTED | retries=0 | waiting_for_recheck
+2026-03-18 10:01:33.198 | WARNING  | Sony_Pal | score=0.07 | status=RECHECK 1/5 | missing=true
+2026-03-18 10:01:33.811 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:01:34.217 | WARNING  | Sony_Pal | score=0.07 | status=RECHECK 2/5 | missing=true
+2026-03-18 10:01:35.205 | WARNING  | Sony_Pal | score=0.07 | status=RECHECK 3/5 | missing=true
+2026-03-18 10:01:35.866 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:01:36.207 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 4/5 | missing=true
+2026-03-18 10:01:36.842 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:01:37.211 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 5/5 | missing=true
+2026-03-18 10:01:37.218 | INFO     | Sony_Pal | score=0.07 | status=MISSING DETECTED | recheck=5/5
+2026-03-18 10:01:38.204 | WARNING  | Sony_Pal | score=0.00 | status=LOGO MISSING SUSPECTED | retries=0 | waiting_for_recheck
+2026-03-18 10:01:38.219 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 1/5 | missing=true
+2026-03-18 10:01:39.225 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 2/5 | missing=true
+2026-03-18 10:01:39.854 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:01:40.227 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 3/5 | missing=true
+2026-03-18 10:01:40.875 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:01:41.227 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 4/5 | missing=true
+2026-03-18 10:01:42.222 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 5/5 | missing=true
+2026-03-18 10:01:42.226 | INFO     | Sony_Pal | score=0.00 | status=MISSING DETECTED | recheck=5/5
+2026-03-18 10:01:42.854 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:01:43.255 | WARNING  | Sony_Pal | score=0.00 | status=LOGO MISSING SUSPECTED | retries=0 | waiting_for_recheck
+2026-03-18 10:01:43.267 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 1/5 | missing=true
+2026-03-18 10:01:44.288 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 2/5 | missing=true
+2026-03-18 10:01:45.274 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 3/5 | missing=true
+2026-03-18 10:01:45.909 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:01:45.939 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:01:46.272 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 4/5 | missing=true
+2026-03-18 10:01:47.272 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 5/5 | missing=true
+2026-03-18 10:01:47.277 | INFO     | Sony_Pal | score=0.00 | status=MISSING DETECTED | recheck=5/5
+2026-03-18 10:01:48.326 | WARNING  | Sony_Pal | score=0.00 | status=LOGO MISSING SUSPECTED | retries=0 | waiting_for_recheck
+2026-03-18 10:01:48.326 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 1/5 | missing=true
+2026-03-18 10:01:48.923 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:01:50.339 | WARNING  | Sony_Pal | score=N/A | status=RECHECK 2/5 | capture_error=stream timeout
+2026-03-18 10:01:50.638 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 3/5 | missing=true
+2026-03-18 10:01:50.945 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:01:51.355 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 4/5 | missing=true
+2026-03-18 10:01:52.042 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:01:52.340 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 5/5 | missing=true
+2026-03-18 10:01:52.350 | INFO     | Incident recovered for channel 'Sony_Pal'
+2026-03-18 10:01:52.352 | INFO     | Sony_Pal | score=0.00 | status=LOGO PRESENT | recheck=4/5 | false_alarm=true
+2026-03-18 10:01:53.426 | WARNING  | Sony_Pal | score=0.00 | status=LOGO MISSING SUSPECTED | retries=0 | waiting_for_recheck
+2026-03-18 10:01:53.433 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 1/5 | missing=true
+2026-03-18 10:01:54.445 | WARNING  | Sony_Pal | score=0.00 | status=RECHECK 2/5 | missing=true
+2026-03-18 10:01:55.039 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:01:55.439 | INFO     | Sony_Pal | score=0.77 | status=RECHECK 3/5 | missing=false
+2026-03-18 10:01:55.981 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:01:56.445 | INFO     | Sony_Pal | score=0.78 | status=RECHECK 4/5 | missing=false
+2026-03-18 10:01:57.439 | INFO     | Sony_Pal | score=0.78 | status=RECHECK 5/5 | missing=false
+2026-03-18 10:01:57.439 | INFO     | Sony_Pal | score=0.00 | status=LOGO PRESENT | recheck=2/5 | false_alarm=true
+2026-03-18 10:01:58.109 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:01:58.482 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:01.024 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:01.073 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:02:03.513 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:04.139 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:02:06.076 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:07.128 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:02:08.604 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:10.176 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:02:11.139 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:13.162 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:02:13.704 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:16.190 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:16.271 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:02:18.789 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:19.254 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:02:21.227 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:22.343 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:02:23.818 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:25.359 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:02:26.242 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:28.389 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:02:28.822 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:31.295 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:31.383 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:02:33.823 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:34.413 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:02:36.376 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:37.404 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:02:38.922 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:40.457 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:02:41.477 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:43.464 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:02:43.969 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:46.508 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:46.539 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:02:49.039 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:49.539 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:02:51.554 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:52.622 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:02:54.104 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:55.598 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:02:56.622 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:02:58.658 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:02:59.190 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:01.643 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:01.658 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:03:04.230 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:04.759 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:03:06.643 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:07.754 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:03:09.289 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:10.862 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:03:11.639 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:13.839 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:03:14.326 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:16.742 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:16.889 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:03:19.432 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:19.908 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:03:21.824 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:22.974 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:03:24.527 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:26.004 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:03:26.876 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:29.054 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:03:29.577 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:31.967 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:32.057 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:03:34.647 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:35.078 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:03:36.999 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:38.083 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:03:39.645 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:41.204 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:03:42.012 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:44.186 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:03:44.705 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:47.111 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:47.276 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:03:49.759 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:50.277 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:03:52.106 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:53.323 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:03:54.845 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:56.339 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:03:57.174 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:03:59.422 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:03:59.926 | WARNING  | Sony_Pal | score=0.11 | status=LOGO MISSING SUSPECTED | retries=0 | waiting_for_recheck
+2026-03-18 10:03:59.929 | WARNING  | Sony_Pal | score=0.11 | status=RECHECK 1/5 | missing=true
+2026-03-18 10:04:00.924 | WARNING  | Sony_Pal | score=0.55 | status=RECHECK 2/5 | missing=true
+2026-03-18 10:04:01.939 | INFO     | Sony_Pal | score=0.78 | status=RECHECK 3/5 | missing=false
+2026-03-18 10:04:02.230 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:02.422 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:04:02.932 | INFO     | Sony_Pal | score=0.77 | status=RECHECK 4/5 | missing=false
+2026-03-18 10:04:03.926 | INFO     | Sony_Pal | score=0.78 | status=RECHECK 5/5 | missing=false
+2026-03-18 10:04:03.926 | INFO     | Sony_Pal | score=0.11 | status=LOGO PRESENT | recheck=2/5 | false_alarm=true
+2026-03-18 10:04:04.996 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:05.436 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:04:07.240 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:08.458 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:04:10.066 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:11.609 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:04:12.272 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:14.589 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:04:15.063 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:17.354 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:17.640 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:04:20.148 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:20.639 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:04:22.389 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:23.707 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:04:25.248 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:26.705 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:04:27.473 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:29.831 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:04:30.239 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:32.475 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:32.804 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:04:35.261 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:35.874 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:04:37.504 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:38.889 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:04:40.254 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:41.924 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:04:42.512 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:44.941 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:04:45.296 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:47.525 | INFO     | SAB_HD | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:48.054 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:04:50.323 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:51.054 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:04:52.558 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:54.117 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:04:55.404 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:04:57.104 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:04:57.627 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:00.187 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:05:00.415 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:02.654 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:03.189 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:05:05.440 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:06.254 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:05:07.672 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:09.259 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:05:10.460 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:12.342 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:05:12.744 | INFO     | SAB_HD | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:15.339 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:05:15.494 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:17.746 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:18.388 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:05:20.558 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:21.389 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:05:22.825 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:24.423 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:05:25.635 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:27.418 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:05:27.822 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:30.510 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:05:30.705 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:32.868 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:33.489 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:05:35.789 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:36.554 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:05:37.927 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:39.577 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:05:40.811 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:42.689 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:05:43.004 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:45.713 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:05:45.828 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:48.105 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:48.740 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:05:50.876 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:51.717 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:05:53.190 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:54.789 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:05:55.956 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:05:57.772 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:05:58.206 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:00.870 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:06:01.014 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:03.314 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:03.868 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:06:06.037 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:07.014 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:06:08.410 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:09.989 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:06:11.089 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:13.089 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:06:13.421 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:16.101 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:06:16.156 | WARNING  | Sony_Pal | score=0.12 | status=LOGO MISSING SUSPECTED | retries=0 | waiting_for_recheck
+2026-03-18 10:06:16.160 | WARNING  | Sony_Pal | score=0.12 | status=RECHECK 1/5 | missing=true
+2026-03-18 10:06:17.167 | INFO     | Sony_Pal | score=0.82 | status=RECHECK 2/5 | missing=false
+2026-03-18 10:06:18.167 | INFO     | Sony_Pal | score=0.78 | status=RECHECK 3/5 | missing=false
+2026-03-18 10:06:18.488 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:19.163 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:06:19.173 | INFO     | Sony_Pal | score=0.77 | status=RECHECK 4/5 | missing=false
+2026-03-18 10:06:20.173 | INFO     | Sony_Pal | score=0.80 | status=RECHECK 5/5 | missing=false
+2026-03-18 10:06:20.175 | INFO     | Sony_Pal | score=0.12 | status=LOGO PRESENT | recheck=1/5 | false_alarm=true
+2026-03-18 10:06:21.156 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:22.167 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:06:23.589 | INFO     | SAB_HD | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:25.277 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:06:26.195 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:28.293 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:06:28.669 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:31.233 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:31.378 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:06:33.698 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:34.367 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:06:36.304 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:37.491 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:06:38.758 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:40.483 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:06:41.311 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:43.556 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:06:43.768 | INFO     | SAB_HD | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:46.342 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:46.539 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:06:48.787 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:49.660 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:06:51.382 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:52.659 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:06:53.817 | INFO     | SAB_HD | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:55.739 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:06:56.424 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:06:58.717 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:06:58.874 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:01.435 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:01.789 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:07:03.933 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:04.754 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:07:06.487 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:07.839 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:07:09.039 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:10.854 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:07:11.579 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:13.915 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:07:14.090 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:16.608 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:16.919 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:07:19.089 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:19.939 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:07:21.677 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:22.939 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:07:24.172 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:26.018 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:07:26.739 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:28.990 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:07:29.238 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:31.807 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:32.018 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:07:34.266 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:35.007 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:07:36.889 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:38.045 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:07:39.341 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:41.038 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:07:41.911 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:44.126 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:07:44.350 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:46.956 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:47.136 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:07:49.384 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:50.188 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:07:52.029 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:53.172 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:07:54.420 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:56.238 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:07:57.084 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:07:59.233 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:07:59.474 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:02.155 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:02.384 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:08:04.552 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:05.349 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:08:07.193 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:08.444 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:08:09.602 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:11.446 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:08:12.201 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:14.599 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:08:14.678 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:17.253 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:17.581 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:08:19.672 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:20.676 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:08:22.290 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:23.672 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:08:24.753 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:26.764 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:08:27.391 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:29.755 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:08:29.814 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:32.392 | WARNING  | Sony_Pal | score=0.04 | status=LOGO MISSING SUSPECTED | retries=0 | waiting_for_recheck
+2026-03-18 10:08:32.396 | WARNING  | Sony_Pal | score=0.04 | status=RECHECK 1/5 | missing=true
+2026-03-18 10:08:33.019 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:08:33.404 | WARNING  | Sony_Pal | score=0.16 | status=RECHECK 2/5 | missing=true
+2026-03-18 10:08:34.398 | INFO     | Sony_Pal | score=0.79 | status=RECHECK 3/5 | missing=false
+2026-03-18 10:08:34.885 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:35.396 | INFO     | Sony_Pal | score=0.78 | status=RECHECK 4/5 | missing=false
+2026-03-18 10:08:36.000 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:08:36.397 | INFO     | Sony_Pal | score=0.78 | status=RECHECK 5/5 | missing=false
+2026-03-18 10:08:36.399 | INFO     | Sony_Pal | score=0.04 | status=LOGO PRESENT | recheck=2/5 | false_alarm=true
+2026-03-18 10:08:37.393 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:39.100 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:08:39.936 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:42.083 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:08:42.402 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:45.010 | INFO     | SAB_HD | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:45.185 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:08:47.446 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:48.184 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:08:50.079 | INFO     | SAB_HD | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:51.261 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:08:52.486 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:54.244 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:08:55.161 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:08:57.305 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:08:57.495 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:00.232 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:00.287 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:09:02.557 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:03.346 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:09:05.328 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:06.380 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:09:07.548 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:09.431 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:09:10.384 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:12.425 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:09:12.621 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:15.384 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:15.509 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:09:17.682 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:18.511 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:09:20.540 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:21.568 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:09:22.722 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:24.572 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:09:25.598 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:27.627 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:09:27.713 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:30.612 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:30.624 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:09:32.822 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:33.737 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:09:35.652 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:36.714 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:09:37.860 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:39.738 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:09:40.639 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:42.739 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:09:42.969 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:45.652 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:45.839 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:09:48.043 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:48.859 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:09:50.691 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:51.930 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:09:53.086 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:54.944 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:09:55.714 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:09:58.046 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:09:58.160 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:00.769 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:01.077 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:10:03.303 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:04.211 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:10:05.798 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:07.173 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:10:08.304 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:10.198 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:10:10.884 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:13.197 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:10:13.315 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:15.961 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:16.215 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:10:18.441 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:19.207 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:10:21.049 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:22.333 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:10:23.479 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:25.356 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:10:26.080 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:28.511 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:10:28.535 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:31.136 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:31.509 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:10:33.598 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:34.579 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:10:36.171 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:37.593 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:10:38.606 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:40.622 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:10:41.270 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:43.602 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:10:43.622 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:46.319 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:46.655 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:10:48.647 | WARNING  | Sony_Pal | score=0.11 | status=LOGO MISSING SUSPECTED | retries=0 | waiting_for_recheck
+2026-03-18 10:10:48.647 | WARNING  | Sony_Pal | score=0.11 | status=RECHECK 1/5 | missing=true
+2026-03-18 10:10:49.638 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:10:49.668 | WARNING  | Sony_Pal | score=0.06 | status=RECHECK 2/5 | missing=true
+2026-03-18 10:10:50.660 | WARNING  | Sony_Pal | score=0.19 | status=RECHECK 3/5 | missing=true
+2026-03-18 10:10:51.372 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:51.660 | INFO     | Sony_Pal | score=0.76 | status=RECHECK 4/5 | missing=false
+2026-03-18 10:10:52.721 | INFO     | Sony_Pal | score=0.78 | status=RECHECK 5/5 | missing=false
+2026-03-18 10:10:52.733 | INFO     | Sony_Pal | score=0.11 | status=LOGO PRESENT | recheck=3/5 | false_alarm=true
+2026-03-18 10:10:52.840 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:10:53.640 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:55.793 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:10:56.408 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:58.738 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:10:58.869 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:11:01.457 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:01.854 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:11:03.746 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:04.914 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:11:06.511 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:07.896 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:11:08.786 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:10.996 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:11:11.553 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:13.862 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:13.975 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:11:16.608 | INFO     | SAB_HD | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:17.064 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:11:18.933 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:20.066 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:11:21.668 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:23.152 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:11:23.986 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:26.145 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:11:26.683 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:29.003 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:29.255 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:11:31.688 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:32.247 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:11:34.030 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:35.275 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:11:36.686 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:38.277 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:11:39.037 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:41.349 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:11:41.738 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:44.133 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:44.512 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:11:46.771 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:47.620 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:11:49.148 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:50.625 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:11:51.801 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:53.690 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:11:54.223 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:56.691 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:11:56.858 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:59.265 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:11:59.780 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:12:01.866 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:02.746 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:12:04.293 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:05.825 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:12:06.943 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:08.841 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:12:09.367 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:11.939 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:12:12.003 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:14.462 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:14.950 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:12:17.106 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:18.004 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:12:19.492 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:21.020 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:12:22.170 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:24.038 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:12:24.543 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:27.038 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:12:27.274 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:29.573 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:30.154 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:12:32.367 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:33.161 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:12:34.647 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:36.190 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:12:37.383 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:39.185 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:12:39.679 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:42.234 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:12:42.370 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:44.707 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:45.243 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:12:47.431 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:48.276 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:12:49.763 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:51.263 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:12:52.464 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:54.361 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:12:54.789 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:57.346 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:12:57.531 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:12:59.850 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:00.447 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:13:02.592 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:03.436 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:13:04.918 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:06.514 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:13:07.625 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:09.515 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:13:10.003 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:12.551 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:13:12.619 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:15.053 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:15.536 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:13:17.656 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:18.644 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:13:20.109 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:21.601 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:13:22.722 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:24.652 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:13:25.195 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:27.653 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:13:27.728 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:30.229 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:30.709 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:13:32.733 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:33.759 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:13:35.313 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:36.870 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:13:37.744 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:39.878 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:13:40.342 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:42.765 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:42.906 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:13:45.368 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:45.913 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:13:47.811 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:48.941 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:13:50.358 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:51.945 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:13:52.814 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:55.077 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:13:55.410 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:57.846 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:13:58.063 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:14:00.490 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:01.096 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:14:02.930 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:04.097 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:14:05.523 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:07.146 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:14:07.948 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:10.148 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:14:10.575 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:13.035 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:13.234 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:14:15.583 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:16.266 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:14:18.132 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:19.382 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:14:20.586 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:22.401 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:14:23.233 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:25.468 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:14:25.609 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:28.302 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:28.484 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:14:30.653 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:31.535 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:14:33.354 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:34.535 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:14:35.703 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:37.569 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:14:38.411 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:40.576 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:14:40.738 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:43.427 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:43.654 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:14:45.732 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:46.661 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:14:48.541 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:49.868 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:14:50.765 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:52.785 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:14:53.559 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:55.842 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:55.892 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:14:58.610 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:14:58.908 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:15:00.843 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:01.948 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:15:03.685 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:04.969 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:15:05.866 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:08.006 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:15:08.788 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:10.904 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:10.982 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:15:13.814 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:14.012 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:15:15.993 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:17.008 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:15:18.859 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:20.116 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:15:21.021 | INFO     | Sony_Pal | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:23.116 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:15:23.952 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:26.103 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:26.204 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:15:29.033 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:29.192 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:15:31.206 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:32.292 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:15:34.031 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:35.300 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:15:36.245 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:38.370 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:15:39.101 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:41.321 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:41.371 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:15:44.103 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:44.431 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:15:46.378 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:47.437 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:15:49.173 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:50.520 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:15:51.374 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:53.501 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:15:54.228 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:56.409 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:56.556 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:15:59.306 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:15:59.569 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:16:01.473 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:02.612 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:16:04.299 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:05.605 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:16:06.562 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:08.722 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:16:09.387 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:11.593 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:11.713 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:16:14.430 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:14.839 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:16:16.612 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:17.831 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:16:19.511 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:20.924 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:16:21.699 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:23.925 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:16:24.605 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:26.733 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:27.019 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:16:29.696 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:30.016 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:16:31.796 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:33.132 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:16:34.707 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:36.144 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:16:36.874 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:39.222 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:16:39.723 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:41.901 | INFO     | Sony_Pal | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:42.230 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:16:44.800 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:45.364 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:16:46.925 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:48.369 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:16:49.789 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:51.470 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:16:51.991 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:54.470 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:16:54.849 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:57.003 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:16:57.526 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:16:59.863 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:17:00.507 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:17:02.042 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:17:03.572 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:17:04.913 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:17:06.552 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:17:07.112 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:17:09.587 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:17:09.907 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:17:12.132 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:17:12.574 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:17:14.965 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:17:15.676 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:17:17.229 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:17:18.689 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:17:19.997 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:17:21.812 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:17:22.372 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:17:24.838 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:17:25.088 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:17:27.399 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:17:27.868 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:17:30.110 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:17:30.891 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:17:32.416 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:17:33.981 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:17:36.992 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:17:37.549 | INFO     | Sony_Pal | score=0.75 | status=LOGO PRESENT | retries=0
+2026-03-18 10:17:38.103 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:17:40.078 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:17:40.924 | INFO     | System | score=N/A | status=Shutdown signal received, draining workers.
+2026-03-18 10:17:41.096 | WARNING  | Sports_HD | score=N/A | status=STREAM_DOWN | retries=1 | error=scheduler stopping
+2026-03-18 10:17:41.115 | WARNING  | SAB_HD | score=N/A | status=STREAM_DOWN | retries=1 | error=reader stopped
+2026-03-18 10:17:46.327 | INFO     | System | score=N/A | status=Scheduler stopped.
+2026-03-18 10:30:03.326 | INFO     | Starting Logo Detector Scheduler (Autonomous Restart Loop)...
+2026-03-18 10:30:03.346 | WARNING  | Stream 'Sports_HD': Template file not found or invalid (logos/Sports_Logo.png). Flagging as MISSING TEMPLATE.
+2026-03-18 10:30:03.349 | INFO     | System | score=N/A | status=Engine started with 3 streams, poll=5.0s, workers=50, recommended_workers=4.
+2026-03-18 10:30:03.387 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-18 10:30:06.410 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:30:06.995 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:30:07.404 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:30:07.912 | INFO     | SAB_HD | score=0.85 | status=WARMUP | retries=1
+2026-03-18 10:30:08.028 | INFO     | Sony_Pal | score=0.78 | status=WARMUP | retries=1
+2026-03-18 10:30:08.474 | INFO     | SAB_HD | score=0.85 | status=WARMUP | retries=0
+2026-03-18 10:30:09.003 | INFO     | Sony_Pal | score=0.78 | status=WARMUP | retries=0
+2026-03-18 10:30:10.392 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:30:13.428 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:30:13.495 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:30:14.043 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:30:16.445 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:30:18.514 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:30:19.109 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:30:19.546 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:30:22.534 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:30:23.508 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:30:24.158 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:30:25.601 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:30:28.608 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:30:28.624 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:30:29.270 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:30:31.719 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:30:33.629 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:30:34.341 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:30:34.722 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:30:37.787 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:30:38.623 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:30:39.391 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:30:40.792 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:30:43.655 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:30:43.924 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:30:44.426 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:30:46.932 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:30:48.710 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:30:49.476 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:30:49.956 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:30:51.676 | INFO     | System | score=N/A | status=Shutdown signal received, draining workers.
+2026-03-18 10:30:52.946 | WARNING  | Sports_HD | score=N/A | status=STREAM_DOWN | retries=1 | error=reader stopped
+2026-03-18 10:30:57.962 | INFO     | System | score=N/A | status=Scheduler stopped.
+2026-03-18 10:31:10.167 | INFO     | Starting Logo Detector Scheduler (Autonomous Restart Loop)...
+2026-03-18 10:31:10.248 | WARNING  | Stream 'Sports_HD': Template file not found or invalid (logos/Sports_Logo.png). Flagging as MISSING TEMPLATE.
+2026-03-18 10:31:10.252 | INFO     | System | score=N/A | status=Engine started with 3 streams, poll=5.0s, workers=50, recommended_workers=4.
+2026-03-18 10:31:10.366 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-18 10:31:13.422 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:31:13.748 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:31:14.345 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:31:16.422 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:31:16.780 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:31:17.330 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:31:19.496 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:31:19.839 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:31:20.390 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:31:22.511 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:31:22.840 | WARNING  | Sony_Pal | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:31:23.373 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:31:24.682 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:31:25.553 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:31:26.408 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:31:27.732 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:31:28.062 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:31:29.393 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:31:32.508 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:31:32.817 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:31:33.148 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:31:35.515 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:31:37.843 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:31:38.193 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:31:38.576 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:32:05.563 | INFO     | Starting Logo Detector Scheduler (Autonomous Restart Loop)...
+2026-03-18 10:32:05.593 | WARNING  | Stream 'Sports_HD': Template file not found or invalid (logos/Sports_Logo.png). Flagging as MISSING TEMPLATE.
+2026-03-18 10:32:05.599 | INFO     | System | score=N/A | status=Engine started with 3 streams, poll=5.0s, workers=50, recommended_workers=4.
+2026-03-18 10:32:05.641 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-18 10:32:08.653 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:32:09.153 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:32:09.692 | INFO     | SAB_HD | score=0.83 | status=WARMUP | retries=1
+2026-03-18 10:32:09.695 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:32:10.184 | INFO     | Sony_Pal | score=0.80 | status=WARMUP | retries=1
+2026-03-18 10:32:10.661 | INFO     | SAB_HD | score=0.83 | status=WARMUP | retries=0
+2026-03-18 10:32:11.121 | INFO     | Sony_Pal | score=0.80 | status=WARMUP | retries=0
+2026-03-18 10:32:12.686 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:32:15.685 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:15.761 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:32:16.228 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:18.741 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:32:20.711 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:21.257 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:21.829 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:32:24.805 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:32:25.813 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:26.286 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:27.905 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:32:30.916 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:30.924 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:32:31.327 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:34.054 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:32:35.995 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:36.328 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:37.039 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:32:40.139 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:32:41.096 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:41.430 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:43.139 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:32:46.096 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:46.196 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:32:46.446 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:49.193 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:32:51.100 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:51.532 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:52.228 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:32:55.233 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:32:56.171 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:56.603 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:32:58.300 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:33:01.168 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:01.292 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:33:01.625 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:04.415 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:33:06.215 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:06.655 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:07.409 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:33:10.463 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:33:11.255 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:11.701 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:13.455 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:33:16.332 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:16.480 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:33:16.809 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:19.464 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:33:21.353 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:21.805 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:22.567 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:33:25.566 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:33:26.414 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:26.837 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:28.649 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:33:31.477 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:31.649 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:33:31.929 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:34.685 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:33:36.490 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:36.950 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:37.682 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:33:40.727 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:33:41.487 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:42.086 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:43.719 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:33:46.588 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:46.850 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:33:47.121 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:49.838 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:33:51.640 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:52.206 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:52.899 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:33:55.914 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:33:56.655 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:57.314 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:33:59.019 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:34:01.674 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:02.037 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:34:02.341 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:05.123 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:34:06.741 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:07.399 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:08.124 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:34:11.172 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:34:11.830 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:12.409 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:14.156 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:34:16.849 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:17.237 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:34:17.478 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:20.263 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:34:21.844 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:22.514 | WARNING  | Sony_Pal | score=0.05 | status=LOGO MISSING SUSPECTED | retries=0 | waiting_for_recheck
+2026-03-18 10:34:22.514 | WARNING  | Sony_Pal | score=0.05 | status=RECHECK 1/5 | missing=true
+2026-03-18 10:34:23.338 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:34:23.526 | WARNING  | Sony_Pal | score=0.16 | status=RECHECK 2/5 | missing=true
+2026-03-18 10:34:24.538 | INFO     | Sony_Pal | score=0.79 | status=RECHECK 3/5 | missing=false
+2026-03-18 10:34:25.527 | INFO     | Sony_Pal | score=0.79 | status=RECHECK 4/5 | missing=false
+2026-03-18 10:34:26.323 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:34:26.538 | INFO     | Sony_Pal | score=0.78 | status=RECHECK 5/5 | missing=false
+2026-03-18 10:34:26.552 | INFO     | Sony_Pal | score=0.05 | status=LOGO PRESENT | recheck=2/5 | false_alarm=true
+2026-03-18 10:34:26.855 | INFO     | SAB_HD | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:27.539 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:29.448 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:34:31.887 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:32.425 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:34:32.551 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:35.575 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:34:36.883 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:37.632 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:38.564 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:34:41.611 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:34:41.881 | INFO     | SAB_HD | score=0.82 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:42.653 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:44.601 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:34:46.949 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:47.631 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:34:47.718 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:50.628 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:34:52.005 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:52.805 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:53.687 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:34:56.678 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:34:57.035 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:57.800 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:34:59.714 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:35:02.034 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:02.702 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:35:02.888 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:05.789 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:35:07.041 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:07.922 | INFO     | Sony_Pal | score=0.81 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:08.795 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:35:11.832 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:35:12.103 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:12.993 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:14.833 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:35:17.113 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:17.883 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:35:18.094 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:20.881 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:35:22.122 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:23.140 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:23.914 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:35:26.914 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:35:27.142 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:28.164 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:30.022 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:35:32.171 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:33.018 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:35:33.157 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:36.055 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:35:37.230 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:38.225 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:39.055 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:35:42.122 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:35:42.306 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:43.292 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:45.144 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:35:47.307 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:48.173 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:35:48.306 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:51.157 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:35:52.316 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:53.407 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:54.192 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:35:57.207 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:35:57.377 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:35:58.494 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:00.258 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:36:02.412 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:03.259 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:36:03.513 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:06.326 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:36:07.496 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:08.600 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:09.315 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:36:12.408 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:36:12.569 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:13.679 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:15.382 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:36:17.570 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:18.442 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:36:18.770 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:21.445 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:36:22.595 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:23.881 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:24.461 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:36:27.478 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:36:27.588 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:28.964 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:30.597 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:36:32.654 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:33.603 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:36:34.016 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:36.679 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:36:37.652 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:39.089 | WARNING  | Sony_Pal | score=0.12 | status=LOGO MISSING SUSPECTED | retries=0 | waiting_for_recheck
+2026-03-18 10:36:39.094 | WARNING  | Sony_Pal | score=0.12 | status=RECHECK 1/5 | missing=true
+2026-03-18 10:36:39.683 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:36:40.106 | WARNING  | Sony_Pal | score=0.07 | status=RECHECK 2/5 | missing=true
+2026-03-18 10:36:41.103 | WARNING  | Sony_Pal | score=0.20 | status=RECHECK 3/5 | missing=true
+2026-03-18 10:36:42.106 | INFO     | Sony_Pal | score=0.77 | status=RECHECK 4/5 | missing=false
+2026-03-18 10:36:42.665 | INFO     | SAB_HD | score=0.84 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:42.863 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:36:43.100 | INFO     | Sony_Pal | score=0.79 | status=RECHECK 5/5 | missing=false
+2026-03-18 10:36:43.100 | INFO     | Sony_Pal | score=0.12 | status=LOGO PRESENT | recheck=3/5 | false_alarm=true
+2026-03-18 10:36:44.140 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:45.849 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:36:47.710 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:48.939 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:36:49.254 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:51.950 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:36:52.750 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:54.303 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:55.049 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:36:57.728 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:36:58.037 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:36:59.324 | INFO     | Sony_Pal | score=0.80 | status=LOGO PRESENT | retries=0
+2026-03-18 10:37:01.100 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:37:02.810 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:37:04.092 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:37:04.375 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:37:06.120 | ERROR    | System utilization threshold crossed; exiting process immediately. Sys CPU: 83.0% (limit 80.0%), Sys Mem: 53.1% (limit 80.0%), Zombies: 0 (limit 10).
+2026-03-18 10:40:39.847 | INFO     | Starting Logo Detector Scheduler (Autonomous Restart Loop)...
+2026-03-18 10:40:39.890 | WARNING  | Stream 'Sports_HD': Template file not found or invalid (logos/Sports_Logo.png). Flagging as MISSING TEMPLATE.
+2026-03-18 10:40:39.893 | INFO     | System | score=N/A | status=Engine started with 3 streams, poll=5.0s, workers=50, recommended_workers=4.
+2026-03-18 10:40:39.929 | INFO     | System | score=N/A | status=API server listening on http://0.0.0.0:8000
+2026-03-18 10:40:42.959 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:40:43.426 | WARNING  | Sony_Pal capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:40:43.900 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:40:44.455 | INFO     | Sony_Pal | score=0.79 | status=WARMUP | retries=1
+2026-03-18 10:40:45.467 | INFO     | Sony_Pal | score=0.79 | status=WARMUP | retries=0
+2026-03-18 10:40:45.933 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:40:46.901 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:40:48.993 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:40:49.994 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:40:50.529 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:40:52.020 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:40:53.011 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:40:55.094 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:40:55.616 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:40:56.071 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:40:58.072 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:40:59.084 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:41:00.695 | INFO     | Sony_Pal | score=0.78 | status=LOGO PRESENT | retries=0
+2026-03-18 10:41:01.161 | WARNING  | SAB_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:41:02.180 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:41:04.141 | WARNING  | SAB_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:41:05.190 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:41:05.243 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:41:05.807 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:41:08.296 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:41:09.280 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:41:10.820 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:41:11.264 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:41:14.296 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:41:14.316 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:41:15.872 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:41:17.344 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:41:19.372 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:41:20.519 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:41:20.964 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:41:23.507 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:41:24.436 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:41:26.000 | INFO     | Sony_Pal | score=0.76 | status=LOGO PRESENT | retries=0
+2026-03-18 10:41:26.610 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:41:29.503 | INFO     | SAB_HD | score=0.86 | status=LOGO PRESENT | retries=0
+2026-03-18 10:41:29.615 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:41:31.027 | INFO     | Sony_Pal | score=0.77 | status=LOGO PRESENT | retries=0
+2026-03-18 10:41:32.745 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:41:34.579 | INFO     | SAB_HD | score=0.83 | status=LOGO PRESENT | retries=0
+2026-03-18 10:41:35.762 | WARNING  | Sports_HD | score=N/A | status=STREAM_TIMEOUT | retries=1 | error=stream timeout
+2026-03-18 10:41:36.053 | INFO     | Sony_Pal | score=0.79 | status=LOGO PRESENT | retries=0
+2026-03-18 10:41:38.834 | WARNING  | Sports_HD capture failed (attempt 1/2): stream timeout. Retrying in 1.00s.
+2026-03-18 10:41:39.623 | INFO     | SAB_HD | score=0.85 | status=LOGO PRESENT | retries=0
+2026-03-18 10:41:40.043 | ERROR    | System utilization threshold crossed; exiting process immediately. Sys CPU: 86.4% (limit 80.0%), Sys Mem: 60.8% (limit 80.0%), Zombies: 0 (limit 10).

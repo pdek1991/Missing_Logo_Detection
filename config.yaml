@@ -1,0 +1,109 @@
+﻿scheduler:
+  max_streams: 50
+  default_poll_interval_seconds: 5
+  default_ffmpeg_timeout_seconds: 4
+  default_retry_attempts: 1
+  default_latency_seconds: 5
+  default_missing_recheck_seconds: 5
+  default_missing_recheck_fps: 1
+  default_missing_recheck_capture_timeout_seconds: 1
+  xml_recheck_interval_seconds: 3600
+  default_international_logo_on_material_ids:
+    - "*CI1001*"
+  default_international_logo_off_material_ids:
+    - "*CI0000*"
+  retry_backoff_seconds: 1
+  retry_backoff_multiplier: 2
+  retry_max_backoff_seconds: 4
+  dispatch_sleep_seconds: 0.1
+  max_workers: 50
+  max_concurrent_rechecks: 8
+  debug_roi_enabled: true
+  web_refresh_interval_seconds: 300
+  resource_monitor_interval_seconds: 30
+  resource_monitor_cpu_threshold_percent: 80
+  resource_monitor_ram_threshold_percent: 80
+  resource_monitor_zombie_threshold: 10
+
+api_enabled: true
+api_host: 0.0.0.0
+api_port: 8000
+
+streams:
+  # For international streams add:
+  # channel_type: international
+  # schedule_xml_prefix: bcehd
+  # schedule_xml_pattern: "*bcehd*.xml"
+
+  - name: SAB_HD
+    url: udp://@239.1.1.1:1234
+    channel_type: india
+    resolution_type: HD
+    template_path: logos/sab2.png
+    display_logo: logos/sab2.PNG
+    threshold_yellow: 0.65
+    threshold_red: 0.55
+    latency_seconds: 5
+    missing_recheck_seconds: 5
+    missing_recheck_fps: 1
+    missing_recheck_capture_timeout_seconds: 1
+    fps_check: 1
+    poll_interval_seconds: 5
+    ffmpeg_timeout_seconds: 4
+    retry_attempts: 1
+    enable_orb_confirmation: false
+    roi:
+      x: 492
+      y: 34
+      width: 53
+      height: 52
+
+  - name: Sony_Pal
+    url: udp://@239.1.1.1:1235
+    channel_type: international
+    schedule_xml_prefix: bbchd
+    # schedule_xml_pattern: "*bbchd*.xml"
+    xml_recheck_interval_seconds: 3600
+    international_logo_on_material_ids:
+      - "*CI1001*"
+    international_logo_off_material_ids:
+      - "*CI0000*"
+    resolution_type: HD
+    template_path: logos/Sony_Pal.png
+    display_logo: logos/Sony_Pal.png
+    threshold_yellow: 0.65
+    threshold_red: 0.55
+    latency_seconds: 5
+    missing_recheck_seconds: 5
+    missing_recheck_fps: 1
+    missing_recheck_capture_timeout_seconds: 1
+    fps_check: 1
+    poll_interval_seconds: 5
+    ffmpeg_timeout_seconds: 4
+    retry_attempts: 1
+    enable_orb_confirmation: false
+    roi:
+      x: 561
+      y: 37
+      width: 37
+      height: 35
+
+  - name: Sports_HD
+    url: udp://@239.1.1.1:1236
+    channel_type: sports
+    resolution_type: HD
+    template_path: logos/Sports_Logo.png
+    display_logo: logos/Sports_Logo.png
+    threshold_yellow: 0.65
+    threshold_red: 0.55
+    enable_orb_confirmation: false
+    roi:
+      x: 500
+      y: 35
+      width: 50
+      height: 50
+    secondary_roi:
+      x: 30
+      y: 35
+      width: 50
+      height: 50

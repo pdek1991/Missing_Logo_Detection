@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Protocol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<Name>LogoMonitoringREST</Name>
+<ProtocolID>8218358</ProtocolID>
+<Version>1.0.0.0</Version>
+<Description>Missing Logo Monitoring Connector REST</Description>
+
+<Groups>
+  <Group id="1">
+    <Name>Configuration</Name>
+    <Content>
+      <Parameter id="10"/>
+      <Parameter id="11"/>
+    </Content>
+  </Group>
+
+  <Group id="2">
+    <Name>Streams</Name>
+    <Content>
+      <Parameter id="1000"/>
+    </Content>
+  </Group>
+</Groups>
+
+<Parameters>
+
+  <Parameter id="10" type="string">
+    <Name>REST Endpoint</Name>
+  </Parameter>
+
+  <Parameter id="11" type="string" volatile="true">
+    <Name>REST Response</Name>
+  </Parameter>
+
+  <Parameter id="1000" type="table">
+    <Name>Streams</Name>
+
+    <Columns>
+
+      <Column id="1001" type="string" key="true">
+        <Name>Channel</Name>
+      </Column>
+
+      <Column id="1002" type="double">
+        <Name>Score</Name>
+      </Column>
+
+      <Column id="1003" type="string">
+        <Name>Status</Name>
+      </Column>
+
+      <Column id="1004" type="string">
+        <Name>Timestamp</Name>
+      </Column>
+
+      <Column id="1005" type="int">
+        <Name>AlarmState</Name>
+
+        <AlarmSettings>
+
+          <Alarm severity="warning" condition="equal" value="1"/>
+          <Alarm severity="critical" condition="equal" value="2"/>
+
+        </AlarmSettings>
+
+      </Column>
+
+    </Columns>
+
+  </Parameter>
+
+</Parameters>
+
+<QActions>
+
+<QAction id="1" encoding="csharp"><![CDATA[
+
+using System;
+using Newtonsoft.Json.Linq;
+using Skyline.DataMiner.Scripting;
+
+public class QAction
+{
+    public static void Run(SLProtocol protocol)
+    {
+        try
+        {
+            string json = protocol.GetParameter(11);
+
+            if (String.IsNullOrEmpty(json))
+                return;
+
+            JArray streams = JArray.Parse(json);
+
+            foreach (var stream in streams)
+            {
+                string channel = stream["channel"].ToString();
+                double score = (double)stream["score"];
+                string status = stream["status"].ToString();
+                string timestamp = stream["timestamp"].ToString();
+
+                int alarmState = 0;
+
+                if (status == "LOGO_PRESENT")
+                    alarmState = 0;
+
+                else if (status == "LOGO_MAYBE_MISSING")
+                    alarmState = 1;
+
+                else if (status == "LOGO_MISSING")
+                    alarmState = 2;
+
+                protocol.SetRow(1000, channel, new object[]
+                {
+                    channel,
+                    score,
+                    status,
+                    timestamp,
+                    alarmState
+                });
+            }
+        }
+        catch (Exception ex)
+        {
+            protocol.Log("Logo parser error: " + ex.Message, LogType.Error, LogLevel.NoLogging);
+        }
+    }
+}
+
+]]></QAction>
+
+</QActions>
+
+</Protocol>

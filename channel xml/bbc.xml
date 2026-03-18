@@ -1,0 +1,1655 @@
+<?xml version="1.0"?>
+<XMLPackage CreatedDatetime="2025-07-11T18:57:34.033Z" AsOfDate="2025-07-12T00:00:00.000Z" Channels="BCEHD">
+
+<Event Type="Multi" Number="71206863" Date="2025-07-12T00:00:00.000Z" Time="06:00:09.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:12:48.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:12:48.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C517"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C523"/>
+
+<Event Type="Multi" Number="71206867" Date="2025-07-12T00:00:00.000Z" Time="06:12:57.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:09:30.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:30.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206869" Date="2025-07-12T00:00:00.000Z" Time="06:22:27.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:05:13.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:13.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:05:10.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="7120686C" Date="2025-07-12T00:00:00.000Z" Time="06:27:40.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:09:21.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:21.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C535"/>
+
+<Event Type="Multi" Number="7120686F" Date="2025-07-12T00:00:00.000Z" Time="06:37:01.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:07:29.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:29.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:07:26.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206872" Date="2025-07-12T00:00:00.000Z" Time="06:44:30.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:03:28.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:03:28.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C547"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:02:18.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:02:28.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C555"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:03:23.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206878" Date="2025-07-12T00:00:00.000Z" Time="06:47:58.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:14:29.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:14:29.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C569"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C575"/>
+
+<Event Type="Multi" Number="7120687C" Date="2025-07-12T00:00:00.000Z" Time="07:02:27.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:06:38.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:38.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="7120687E" Date="2025-07-12T00:00:00.000Z" Time="07:09:05.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:08:16.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:16.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:08:13.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206881" Date="2025-07-12T00:00:00.000Z" Time="07:17:21.00" MaterialID="ZWV62917" Title="KASAM ENGVIND 3RD TEST DAY3 TOD 2.30PM 30SEC HING" Duration="00:00:30.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206883" Date="2025-07-12T00:00:00.000Z" Time="07:17:51.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:06:18.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:18.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C587"/>
+
+<Event Type="Multi" Number="71206887" Date="2025-07-12T00:00:00.000Z" Time="07:24:09.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:06:19.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:19.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:16.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="7120688A" Date="2025-07-12T00:00:00.000Z" Time="07:30:28.00" MaterialID="ZWV62815" Title="PRIME  - CAT CONSUMABLESLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWOR" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="7120688C" Date="2025-07-12T00:00:00.000Z" Time="07:30:38.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:04:06.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:04:06.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C599"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:02:56.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:03:06.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C5A7"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:04:01.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206893" Date="2025-07-12T00:00:00.000Z" Time="07:34:44.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:08:12.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:12.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C5B9"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C5C5"/>
+
+<Event Type="Multi" Number="71206897" Date="2025-07-12T00:00:00.000Z" Time="07:42:56.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:09:35.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:35.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206899" Date="2025-07-12T00:00:00.000Z" Time="07:52:31.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:08:29.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:29.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:08:26.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="7120689C" Date="2025-07-12T00:00:00.000Z" Time="08:01:00.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:06:07.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:07.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C5D7"/>
+
+<Event Type="Multi" Number="7120689F" Date="2025-07-12T00:00:00.000Z" Time="08:07:07.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:06:45.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:45.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:42.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="712068A2" Date="2025-07-12T00:00:00.000Z" Time="08:13:52.00" MaterialID="ZWV62917" Title="KASAM ENGVIND 3RD TEST DAY3 TOD 2.30PM 30SEC HING" Duration="00:00:30.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712068A4" Date="2025-07-12T00:00:00.000Z" Time="08:14:22.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:05:07.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:07.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C5E9"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:03:57.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:04:07.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C5F7"/>
+
+<Event Type="Server" Number="712068AA" Date="2025-07-12T00:00:00.000Z" Time="08:19:29.00" MaterialID="ZWJJ102885" Title="Inside the Factory S9 Promo REV (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="712068AB" Date="2025-07-12T00:00:00.000Z" Time="08:20:14.00" MaterialID="ZWMI100799" Title="MAX1 Demonte Colony 2  MAX 1 Premiere Megaplex (Ton 8pm) X - TON" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="712068AC" Date="2025-07-12T00:00:00.000Z" Time="08:20:34.00" MaterialID="ZWSL100157" Title="Hunt - Trailer 2 - Cutdown 20 Sec - With Review SN- HD - DT; The" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712068AE" Date="2025-07-12T00:00:00.000Z" Time="08:20:54.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:10:36.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:10:36.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C60B"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C617"/>
+
+<Event Type="Multi" Number="712068B2" Date="2025-07-12T00:00:00.000Z" Time="08:31:30.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:07:49.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:49.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712068B4" Date="2025-07-12T00:00:00.000Z" Time="08:39:19.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:07:09.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:09.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:07:06.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="712068B7" Date="2025-07-12T00:00:00.000Z" Time="08:46:28.00" MaterialID="ZWV62809" Title="PRIME  - ASIN-1 CEPCLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712068B9" Date="2025-07-12T00:00:00.000Z" Time="08:46:38.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:07:04.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:04.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C629"/>
+
+<Event Type="Multi" Number="712068BD" Date="2025-07-12T00:00:00.000Z" Time="08:53:42.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:05:50.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:50.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:05:47.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="712068C0" Date="2025-07-12T00:00:00.000Z" Time="08:59:32.00" MaterialID="ZWV62813" Title="PRIME  - CAT OHLLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD )" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712068C2" Date="2025-07-12T00:00:00.000Z" Time="08:59:42.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:05:55.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:55.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C63B"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:04:45.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:04:55.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C649"/>
+
+<Event Type="Server" Number="712068C8" Date="2025-07-12T00:00:00.000Z" Time="09:05:37.00" MaterialID="ZWJJ102895" Title="Souvenirs &amp; Stories (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="712068C9" Date="2025-07-12T00:00:00.000Z" Time="09:06:22.00" MaterialID="ZWMI100799" Title="MAX1 Demonte Colony 2  MAX 1 Premiere Megaplex (Ton 8pm) X - TON" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="712068CA" Date="2025-07-12T00:00:00.000Z" Time="09:06:42.00" MaterialID="ZWBB120972" Title="MOct22 - Ishqbaaz Khiladi - SMP - Promo 1 (Tom 1pm) X - TOM" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712068CC" Date="2025-07-12T00:00:00.000Z" Time="09:07:02.00" MaterialID="ZWJ0050086" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#1" Duration="00:12:32.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:12:32.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C65D"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C669"/>
+
+<Event Type="Multi" Number="712068D0" Date="2025-07-12T00:00:00.000Z" Time="09:19:34.00" MaterialID="ZWJ0050086" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#1" Duration="00:10:16.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:10:16.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712068D2" Date="2025-07-12T00:00:00.000Z" Time="09:29:50.00" MaterialID="ZWJ0050086" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#1" Duration="00:06:26.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:26.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:23.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="712068D5" Date="2025-07-12T00:00:00.000Z" Time="09:36:16.00" MaterialID="ZWV62069" Title="POLICY BAZAAR.COM -PBIB/VIDEO&amp;AUDIO/TERM INSURANCE/AD NO.206" Duration="00:00:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="712068D7" Date="2025-07-12T00:00:00.000Z" Time="09:36:31.00" MaterialID="ZWV62917" Title="KASAM ENGVIND 3RD TEST DAY3 TOD 2.30PM 30SEC HING" Duration="00:00:30.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Multi" Number="712068D8" Date="2025-07-12T00:00:00.000Z" Time="09:37:01.00" MaterialID="ZWJ0050086" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#1" Duration="00:07:16.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:16.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C67B"/>
+
+<Event Type="Multi" Number="712068DC" Date="2025-07-12T00:00:00.000Z" Time="09:44:17.00" MaterialID="ZWJ0050086" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#1" Duration="00:06:38.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:38.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:35.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="712068DF" Date="2025-07-12T00:00:00.000Z" Time="09:50:55.00" MaterialID="ZWV62068" Title="POLICY BAZAAR.COM -PBIB/VIDEO&amp;AUDIO/TERM INSURANCE/AD NO.205" Duration="00:00:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="712068E1" Date="2025-07-12T00:00:00.000Z" Time="09:51:10.00" MaterialID="ZWV62917" Title="KASAM ENGVIND 3RD TEST DAY3 TOD 2.30PM 30SEC HING" Duration="00:00:30.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Multi" Number="712068E2" Date="2025-07-12T00:00:00.000Z" Time="09:51:40.00" MaterialID="ZWJ0050086" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#1" Duration="00:05:51.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:51.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C68D"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:04:41.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:04:51.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C69B"/>
+
+<Event Type="Server" Number="712068E8" Date="2025-07-12T00:00:00.000Z" Time="09:57:31.00" MaterialID="ZWJJ102885" Title="Inside the Factory S9 Promo REV (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="712068E9" Date="2025-07-12T00:00:00.000Z" Time="09:58:16.00" MaterialID="ZWMI100799" Title="MAX1 Demonte Colony 2  MAX 1 Premiere Megaplex (Ton 8pm) X - TON" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="712068EA" Date="2025-07-12T00:00:00.000Z" Time="09:58:36.00" MaterialID="ZWSL100155" Title="Hunt -Trailer  Cutdown 20 Sec Promo 1 - With Review SN- HD - DT; The" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712068EC" Date="2025-07-12T00:00:00.000Z" Time="09:58:56.00" MaterialID="ZWJ0050087" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#2" Duration="00:13:26.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:13:26.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C6AF"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C6BB"/>
+
+<Event Type="Multi" Number="712068F0" Date="2025-07-12T00:00:00.000Z" Time="10:12:22.00" MaterialID="ZWJ0050087" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#2" Duration="00:10:14.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:10:14.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712068F2" Date="2025-07-12T00:00:00.000Z" Time="10:22:36.00" MaterialID="ZWJ0050087" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#2" Duration="00:07:58.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:58.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:07:55.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="712068F5" Date="2025-07-12T00:00:00.000Z" Time="10:30:34.00" MaterialID="ZWV62067" Title="POLICY BAZAAR.COM -PBIB/VIDEO&amp;AUDIO/HEALTH INSURANCE/AD NO.204" Duration="00:00:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="712068F7" Date="2025-07-12T00:00:00.000Z" Time="10:30:49.00" MaterialID="ZWV62917" Title="KASAM ENGVIND 3RD TEST DAY3 TOD 2.30PM 30SEC HING" Duration="00:00:30.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Multi" Number="712068F8" Date="2025-07-12T00:00:00.000Z" Time="10:31:19.00" MaterialID="ZWJ0050087" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#2" Duration="00:07:51.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:51.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C6CD"/>
+
+<Event Type="Multi" Number="712068FC" Date="2025-07-12T00:00:00.000Z" Time="10:39:10.00" MaterialID="ZWJ0050087" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#2" Duration="00:06:26.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:26.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:23.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="712068FF" Date="2025-07-12T00:00:00.000Z" Time="10:45:36.00" MaterialID="ZWV62809" Title="PRIME  - ASIN-1 CEPCLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206901" Date="2025-07-12T00:00:00.000Z" Time="10:45:46.00" MaterialID="ZWV62917" Title="KASAM ENGVIND 3RD TEST DAY3 TOD 2.30PM 30SEC HING" Duration="00:00:30.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Multi" Number="71206902" Date="2025-07-12T00:00:00.000Z" Time="10:46:16.00" MaterialID="ZWJ0050087" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#2" Duration="00:01:36.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:01:36.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C6DF"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:00:26.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:00:36.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C6ED"/>
+
+<Event Type="Server" Number="71206908" Date="2025-07-12T00:00:00.000Z" Time="10:47:52.00" MaterialID="ZWJJ102895" Title="Souvenirs &amp; Stories (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206909" Date="2025-07-12T00:00:00.000Z" Time="10:48:37.00" MaterialID="ZWBB120972" Title="MOct22 - Ishqbaaz Khiladi - SMP - Promo 1 (Tom 1pm) X - TOM" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="7120690B" Date="2025-07-12T00:00:00.000Z" Time="10:48:57.00" MaterialID="ZWJ01533" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#3" Duration="00:08:41.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:41.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C701"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C70D"/>
+
+<Event Type="Multi" Number="7120690F" Date="2025-07-12T00:00:00.000Z" Time="10:57:38.00" MaterialID="ZWJ01533" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#3" Duration="00:09:09.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:09.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206911" Date="2025-07-12T00:00:00.000Z" Time="11:06:47.00" MaterialID="ZWJ01533" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#3" Duration="00:09:55.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:55.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:09:52.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206914" Date="2025-07-12T00:00:00.000Z" Time="11:16:42.00" MaterialID="ZWV62814" Title="PRIME  - CAT SL+BLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD )" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206916" Date="2025-07-12T00:00:00.000Z" Time="11:16:52.00" MaterialID="ZWV62917" Title="KASAM ENGVIND 3RD TEST DAY3 TOD 2.30PM 30SEC HING" Duration="00:00:30.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Multi" Number="71206917" Date="2025-07-12T00:00:00.000Z" Time="11:17:22.00" MaterialID="ZWJ01533" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#3" Duration="00:08:53.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:53.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C71F"/>
+
+<Event Type="Multi" Number="7120691B" Date="2025-07-12T00:00:00.000Z" Time="11:26:15.00" MaterialID="ZWJ01533" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#3" Duration="00:07:39.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:39.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:07:36.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="7120691E" Date="2025-07-12T00:00:00.000Z" Time="11:33:54.00" MaterialID="ZWV62616" Title="POLICY BAZAAR.COM - PBIB/VIDEO&amp;AUDIO/HEALTH INSURANCE/AD NO.202_REVJULY" Duration="00:00:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206920" Date="2025-07-12T00:00:00.000Z" Time="11:34:09.00" MaterialID="ZWV62917" Title="KASAM ENGVIND 3RD TEST DAY3 TOD 2.30PM 30SEC HING" Duration="00:00:30.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Multi" Number="71206921" Date="2025-07-12T00:00:00.000Z" Time="11:34:39.00" MaterialID="ZWJ01533" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#3" Duration="00:05:47.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:47.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C731"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:04:37.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:04:47.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C73F"/>
+
+<Event Type="Server" Number="71206927" Date="2025-07-12T00:00:00.000Z" Time="11:40:26.00" MaterialID="ZWJJ102885" Title="Inside the Factory S9 Promo REV (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206928" Date="2025-07-12T00:00:00.000Z" Time="11:41:11.00" MaterialID="ZWMI100799" Title="MAX1 Demonte Colony 2  MAX 1 Premiere Megaplex (Ton 8pm) X - TON" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206929" Date="2025-07-12T00:00:00.000Z" Time="11:41:31.00" MaterialID="ZWSL100157" Title="Hunt - Trailer 2 - Cutdown 20 Sec - With Review SN- HD - DT; The" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="7120692B" Date="2025-07-12T00:00:00.000Z" Time="11:41:51.00" MaterialID="ZWJ00340" Title="Planet Earth - Season#1 - Episode#7" Duration="00:07:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:45.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C753"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C75F"/>
+
+<Event Type="Multi" Number="7120692F" Date="2025-07-12T00:00:00.000Z" Time="11:49:36.00" MaterialID="ZWJ00340" Title="Planet Earth - Season#1 - Episode#7" Duration="00:07:29.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:29.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206931" Date="2025-07-12T00:00:00.000Z" Time="11:57:05.00" MaterialID="ZWJ00340" Title="Planet Earth - Season#1 - Episode#7" Duration="00:06:16.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:16.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:13.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206934" Date="2025-07-12T00:00:00.000Z" Time="12:03:21.00" MaterialID="ZWV62815" Title="PRIME  - CAT CONSUMABLESLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWOR" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206936" Date="2025-07-12T00:00:00.000Z" Time="12:03:31.00" MaterialID="ZWV62917" Title="KASAM ENGVIND 3RD TEST DAY3 TOD 2.30PM 30SEC HING" Duration="00:00:30.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Multi" Number="71206937" Date="2025-07-12T00:00:00.000Z" Time="12:04:01.00" MaterialID="ZWJ00340" Title="Planet Earth - Season#1 - Episode#7" Duration="00:07:20.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:20.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C771"/>
+
+<Event Type="Multi" Number="7120693B" Date="2025-07-12T00:00:00.000Z" Time="12:11:21.00" MaterialID="ZWJ00340" Title="Planet Earth - Season#1 - Episode#7" Duration="00:07:22.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:22.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:07:19.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="7120693E" Date="2025-07-12T00:00:00.000Z" Time="12:18:43.00" MaterialID="ZWV62069" Title="POLICY BAZAAR.COM -PBIB/VIDEO&amp;AUDIO/TERM INSURANCE/AD NO.206" Duration="00:00:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206940" Date="2025-07-12T00:00:00.000Z" Time="12:18:58.00" MaterialID="ZWV62917" Title="KASAM ENGVIND 3RD TEST DAY3 TOD 2.30PM 30SEC HING" Duration="00:00:30.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Multi" Number="71206941" Date="2025-07-12T00:00:00.000Z" Time="12:19:28.00" MaterialID="ZWJ00340" Title="Planet Earth - Season#1 - Episode#7" Duration="00:04:11.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:04:11.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C783"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:03:01.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:03:11.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C791"/>
+
+<Event Type="Server" Number="71206947" Date="2025-07-12T00:00:00.000Z" Time="12:23:39.00" MaterialID="ZWJJ102895" Title="Souvenirs &amp; Stories (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206948" Date="2025-07-12T00:00:00.000Z" Time="12:24:24.00" MaterialID="ZWBB120972" Title="MOct22 - Ishqbaaz Khiladi - SMP - Promo 1 (Tom 1pm) X - TOM" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="7120694A" Date="2025-07-12T00:00:00.000Z" Time="12:24:44.00" MaterialID="ZWJ00341" Title="Planet Earth - Season#1 - Episode#8" Duration="00:08:48.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:48.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C7A5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C7B1"/>
+
+<Event Type="Multi" Number="7120694E" Date="2025-07-12T00:00:00.000Z" Time="12:33:32.00" MaterialID="ZWJ00341" Title="Planet Earth - Season#1 - Episode#8" Duration="00:09:35.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:35.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206950" Date="2025-07-12T00:00:00.000Z" Time="12:43:07.00" MaterialID="ZWJ00341" Title="Planet Earth - Season#1 - Episode#8" Duration="00:07:11.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:11.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:07:08.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206953" Date="2025-07-12T00:00:00.000Z" Time="12:50:18.00" MaterialID="ZWV62810" Title="PRIME  - ASIN-3 WLLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD )" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206955" Date="2025-07-12T00:00:00.000Z" Time="12:50:28.00" MaterialID="ZWJ00341" Title="Planet Earth - Season#1 - Episode#8" Duration="00:04:24.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:04:24.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C7C3"/>
+
+<Event Type="Multi" Number="71206959" Date="2025-07-12T00:00:00.000Z" Time="12:54:52.00" MaterialID="ZWJ00341" Title="Planet Earth - Season#1 - Episode#8" Duration="00:05:11.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:11.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:05:08.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="7120695C" Date="2025-07-12T00:00:00.000Z" Time="13:00:03.00" MaterialID="ZWV62066" Title="POLICY BAZAAR.COM -PBIB/VIDEO&amp;AUDIO/HEALTH INSURANCE/AD NO.203" Duration="00:00:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="7120695E" Date="2025-07-12T00:00:00.000Z" Time="13:00:18.00" MaterialID="ZWJ00341" Title="Planet Earth - Season#1 - Episode#8" Duration="00:05:08.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:08.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C7D5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:03:58.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:04:08.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C7E3"/>
+
+<Event Type="Server" Number="71206964" Date="2025-07-12T00:00:00.000Z" Time="13:05:26.00" MaterialID="ZWJJ102885" Title="Inside the Factory S9 Promo REV (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206965" Date="2025-07-12T00:00:00.000Z" Time="13:06:11.00" MaterialID="ZWMI100799" Title="MAX1 Demonte Colony 2  MAX 1 Premiere Megaplex (Ton 8pm) X - TON" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206966" Date="2025-07-12T00:00:00.000Z" Time="13:06:31.00" MaterialID="ZWSL100155" Title="Hunt -Trailer  Cutdown 20 Sec Promo 1 - With Review SN- HD - DT; The" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206968" Date="2025-07-12T00:00:00.000Z" Time="13:06:51.00" MaterialID="ZWJ0050350" Title="Life Below Zero-S11" Duration="00:11:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:11:15.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C7F7"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C803"/>
+
+<Event Type="Multi" Number="7120696C" Date="2025-07-12T00:00:00.000Z" Time="13:18:06.00" MaterialID="ZWJ0050350" Title="Life Below Zero-S11" Duration="00:05:20.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:20.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="7120696E" Date="2025-07-12T00:00:00.000Z" Time="13:23:26.00" MaterialID="ZWJ0050350" Title="Life Below Zero-S11" Duration="00:07:10.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:10.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:07:07.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206971" Date="2025-07-12T00:00:00.000Z" Time="13:30:36.00" MaterialID="ZWV62810" Title="PRIME  - ASIN-3 WLLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD )" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206973" Date="2025-07-12T00:00:00.000Z" Time="13:30:46.00" MaterialID="ZWJ0050350" Title="Life Below Zero-S11" Duration="00:07:38.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:38.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C815"/>
+
+<Event Type="Multi" Number="71206977" Date="2025-07-12T00:00:00.000Z" Time="13:38:24.00" MaterialID="ZWJ0050350" Title="Life Below Zero-S11" Duration="00:05:02.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:04:59.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="7120697A" Date="2025-07-12T00:00:00.000Z" Time="13:43:26.00" MaterialID="ZWV62068" Title="POLICY BAZAAR.COM -PBIB/VIDEO&amp;AUDIO/TERM INSURANCE/AD NO.205" Duration="00:00:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="7120697C" Date="2025-07-12T00:00:00.000Z" Time="13:43:41.00" MaterialID="ZWV62917" Title="KASAM ENGVIND 3RD TEST DAY3 TOD 2.30PM 30SEC HING" Duration="00:00:30.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Multi" Number="7120697D" Date="2025-07-12T00:00:00.000Z" Time="13:44:11.00" MaterialID="ZWJ0050350" Title="Life Below Zero-S11" Duration="00:04:10.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:04:10.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C827"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:03:00.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:03:10.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C835"/>
+
+<Event Type="Server" Number="71206983" Date="2025-07-12T00:00:00.000Z" Time="13:48:21.00" MaterialID="ZWJJ102895" Title="Souvenirs &amp; Stories (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206984" Date="2025-07-12T00:00:00.000Z" Time="13:49:06.00" MaterialID="ZWBB120972" Title="MOct22 - Ishqbaaz Khiladi - SMP - Promo 1 (Tom 1pm) X - TOM" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206986" Date="2025-07-12T00:00:00.000Z" Time="13:49:26.00" MaterialID="ZWJ0050351" Title="Life Below Zero-S11" Duration="00:08:59.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:59.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C849"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C855"/>
+
+<Event Type="Multi" Number="7120698A" Date="2025-07-12T00:00:00.000Z" Time="13:58:25.00" MaterialID="ZWJ0050351" Title="Life Below Zero-S11" Duration="00:09:40.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="7120698C" Date="2025-07-12T00:00:00.000Z" Time="14:08:05.00" MaterialID="ZWJ0050351" Title="Life Below Zero-S11" Duration="00:09:53.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:53.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:09:50.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="7120698F" Date="2025-07-12T00:00:00.000Z" Time="14:17:58.00" MaterialID="ZWV62067" Title="POLICY BAZAAR.COM -PBIB/VIDEO&amp;AUDIO/HEALTH INSURANCE/AD NO.204" Duration="00:00:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206991" Date="2025-07-12T00:00:00.000Z" Time="14:18:13.00" MaterialID="ZWV62917" Title="KASAM ENGVIND 3RD TEST DAY3 TOD 2.30PM 30SEC HING" Duration="00:00:30.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Multi" Number="71206992" Date="2025-07-12T00:00:00.000Z" Time="14:18:43.00" MaterialID="ZWJ0050351" Title="Life Below Zero-S11" Duration="00:05:17.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:17.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C867"/>
+
+<Event Type="Multi" Number="71206996" Date="2025-07-12T00:00:00.000Z" Time="14:24:00.00" MaterialID="ZWJ0050351" Title="Life Below Zero-S11" Duration="00:07:36.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:36.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:07:33.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206999" Date="2025-07-12T00:00:00.000Z" Time="14:31:36.00" MaterialID="ZWV62812" Title="PRIME  - ASIN-1 WLLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD )" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="7120699B" Date="2025-07-12T00:00:00.000Z" Time="14:31:46.00" MaterialID="ZWJ0050351" Title="Life Below Zero-S11" Duration="00:02:39.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:02:39.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C879"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:01:29.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:01:39.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C887"/>
+
+<Event Type="Server" Number="712069A1" Date="2025-07-12T00:00:00.000Z" Time="14:34:25.00" MaterialID="ZWJJ102885" Title="Inside the Factory S9 Promo REV (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="712069A2" Date="2025-07-12T00:00:00.000Z" Time="14:35:10.00" MaterialID="ZWMI100799" Title="MAX1 Demonte Colony 2  MAX 1 Premiere Megaplex (Ton 8pm) X - TON" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="712069A3" Date="2025-07-12T00:00:00.000Z" Time="14:35:30.00" MaterialID="ZWSL100157" Title="Hunt - Trailer 2 - Cutdown 20 Sec - With Review SN- HD - DT; The" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712069A5" Date="2025-07-12T00:00:00.000Z" Time="14:35:50.00" MaterialID="ZWJ0050352" Title="Life Below Zero-S11" Duration="00:13:12.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:13:12.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C89B"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C8A7"/>
+
+<Event Type="Multi" Number="712069A9" Date="2025-07-12T00:00:00.000Z" Time="14:49:02.00" MaterialID="ZWJ0050352" Title="Life Below Zero-S11" Duration="00:06:15.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:15.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712069AB" Date="2025-07-12T00:00:00.000Z" Time="14:55:17.00" MaterialID="ZWJ0050352" Title="Life Below Zero-S11" Duration="00:06:01.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:05:58.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="712069AE" Date="2025-07-12T00:00:00.000Z" Time="15:01:18.00" MaterialID="ZWV62810" Title="PRIME  - ASIN-3 WLLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD )" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712069B0" Date="2025-07-12T00:00:00.000Z" Time="15:01:28.00" MaterialID="ZWJ0050352" Title="Life Below Zero-S11" Duration="00:08:08.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:08.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C8B9"/>
+
+<Event Type="Multi" Number="712069B4" Date="2025-07-12T00:00:00.000Z" Time="15:09:36.00" MaterialID="ZWJ0050352" Title="Life Below Zero-S11" Duration="00:06:05.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:05.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:02.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="712069B7" Date="2025-07-12T00:00:00.000Z" Time="15:15:41.00" MaterialID="ZWV62069" Title="POLICY BAZAAR.COM -PBIB/VIDEO&amp;AUDIO/TERM INSURANCE/AD NO.206" Duration="00:00:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712069B9" Date="2025-07-12T00:00:00.000Z" Time="15:15:56.00" MaterialID="ZWJ0050352" Title="Life Below Zero-S11" Duration="00:04:23.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:04:23.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C8CB"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:03:13.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:03:23.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C8D9"/>
+
+<Event Type="Server" Number="712069BF" Date="2025-07-12T00:00:00.000Z" Time="15:20:19.00" MaterialID="ZWJJ102895" Title="Souvenirs &amp; Stories (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="712069C0" Date="2025-07-12T00:00:00.000Z" Time="15:21:04.00" MaterialID="ZWBB120972" Title="MOct22 - Ishqbaaz Khiladi - SMP - Promo 1 (Tom 1pm) X - TOM" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712069C2" Date="2025-07-12T00:00:00.000Z" Time="15:21:24.00" MaterialID="ZWJ01727" Title="Chasing Monsters - Season#3 - Episode#1" Duration="00:07:18.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:18.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C8ED"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C8F9"/>
+
+<Event Type="Multi" Number="712069C6" Date="2025-07-12T00:00:00.000Z" Time="15:28:42.00" MaterialID="ZWJ01727" Title="Chasing Monsters - Season#3 - Episode#1" Duration="00:07:39.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:39.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712069C8" Date="2025-07-12T00:00:00.000Z" Time="15:36:21.00" MaterialID="ZWJ01727" Title="Chasing Monsters - Season#3 - Episode#1" Duration="00:06:33.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:33.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:30.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="712069CB" Date="2025-07-12T00:00:00.000Z" Time="15:42:54.00" MaterialID="ZWV62814" Title="PRIME  - CAT SL+BLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD )" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712069CD" Date="2025-07-12T00:00:00.000Z" Time="15:43:04.00" MaterialID="ZWJ01727" Title="Chasing Monsters - Season#3 - Episode#1" Duration="00:08:42.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:42.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C90B"/>
+
+<Event Type="Multi" Number="712069D1" Date="2025-07-12T00:00:00.000Z" Time="15:51:46.00" MaterialID="ZWJ01727" Title="Chasing Monsters - Season#3 - Episode#1" Duration="00:08:36.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:36.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:08:33.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="712069D4" Date="2025-07-12T00:00:00.000Z" Time="16:00:22.00" MaterialID="ZWV62810" Title="PRIME  - ASIN-3 WLLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD )" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712069D6" Date="2025-07-12T00:00:00.000Z" Time="16:00:32.00" MaterialID="ZWJ01727" Title="Chasing Monsters - Season#3 - Episode#1" Duration="00:06:52.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:52.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C91D"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:05:42.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:05:52.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C92B"/>
+
+<Event Type="Server" Number="712069DC" Date="2025-07-12T00:00:00.000Z" Time="16:07:24.00" MaterialID="ZWJJ102885" Title="Inside the Factory S9 Promo REV (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="712069DD" Date="2025-07-12T00:00:00.000Z" Time="16:08:09.00" MaterialID="ZWMI100799" Title="MAX1 Demonte Colony 2  MAX 1 Premiere Megaplex (Ton 8pm) X - TON" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="712069DE" Date="2025-07-12T00:00:00.000Z" Time="16:08:29.00" MaterialID="ZWSL100155" Title="Hunt -Trailer  Cutdown 20 Sec Promo 1 - With Review SN- HD - DT; The" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712069E0" Date="2025-07-12T00:00:00.000Z" Time="16:08:49.00" MaterialID="ZWJ01728" Title="Chasing Monsters - Season#3 - Episode#2" Duration="00:11:13.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:11:13.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C93F"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C94B"/>
+
+<Event Type="Multi" Number="712069E4" Date="2025-07-12T00:00:00.000Z" Time="16:20:02.00" MaterialID="ZWJ01728" Title="Chasing Monsters - Season#3 - Episode#2" Duration="00:07:09.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:09.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712069E6" Date="2025-07-12T00:00:00.000Z" Time="16:27:11.00" MaterialID="ZWJ01728" Title="Chasing Monsters - Season#3 - Episode#2" Duration="00:09:00.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:00.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:08:57.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="712069E9" Date="2025-07-12T00:00:00.000Z" Time="16:36:11.00" MaterialID="ZWV62068" Title="POLICY BAZAAR.COM -PBIB/VIDEO&amp;AUDIO/TERM INSURANCE/AD NO.205" Duration="00:00:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712069EB" Date="2025-07-12T00:00:00.000Z" Time="16:36:26.00" MaterialID="ZWJ01728" Title="Chasing Monsters - Season#3 - Episode#2" Duration="00:05:58.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:58.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C95D"/>
+
+<Event Type="Multi" Number="712069EF" Date="2025-07-12T00:00:00.000Z" Time="16:42:24.00" MaterialID="ZWJ01728" Title="Chasing Monsters - Season#3 - Episode#2" Duration="00:06:22.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:22.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:19.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="712069F2" Date="2025-07-12T00:00:00.000Z" Time="16:48:46.00" MaterialID="ZWV62812" Title="PRIME  - ASIN-1 WLLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD )" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712069F4" Date="2025-07-12T00:00:00.000Z" Time="16:48:56.00" MaterialID="ZWJ01728" Title="Chasing Monsters - Season#3 - Episode#2" Duration="00:04:29.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:04:29.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C96F"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:03:19.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:03:29.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C97D"/>
+
+<Event Type="Server" Number="712069FA" Date="2025-07-12T00:00:00.000Z" Time="16:53:25.00" MaterialID="ZWJJ102895" Title="Souvenirs &amp; Stories (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="712069FB" Date="2025-07-12T00:00:00.000Z" Time="16:54:10.00" MaterialID="ZWBB120972" Title="MOct22 - Ishqbaaz Khiladi - SMP - Promo 1 (Tom 1pm) X - TOM" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="712069FD" Date="2025-07-12T00:00:00.000Z" Time="16:54:30.00" MaterialID="ZWJ01729" Title="Chasing Monsters - Season#3 - Episode#3" Duration="00:09:16.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:16.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C991"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C99D"/>
+
+<Event Type="Multi" Number="71206A01" Date="2025-07-12T00:00:00.000Z" Time="17:03:46.00" MaterialID="ZWJ01729" Title="Chasing Monsters - Season#3 - Episode#3" Duration="00:07:12.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:12.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A03" Date="2025-07-12T00:00:00.000Z" Time="17:10:58.00" MaterialID="ZWJ01729" Title="Chasing Monsters - Season#3 - Episode#3" Duration="00:05:50.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:50.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:05:47.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206A06" Date="2025-07-12T00:00:00.000Z" Time="17:16:48.00" MaterialID="ZWV62812" Title="PRIME  - ASIN-1 WLLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD )" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A08" Date="2025-07-12T00:00:00.000Z" Time="17:16:58.00" MaterialID="ZWJ01729" Title="Chasing Monsters - Season#3 - Episode#3" Duration="00:08:53.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:53.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C9AF"/>
+
+<Event Type="Multi" Number="71206A0C" Date="2025-07-12T00:00:00.000Z" Time="17:25:51.00" MaterialID="ZWJ01729" Title="Chasing Monsters - Season#3 - Episode#3" Duration="00:05:59.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:59.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:05:56.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206A0F" Date="2025-07-12T00:00:00.000Z" Time="17:31:50.00" MaterialID="ZWV62064" Title="POLICY BAZAAR.COM -PBIB/VIDEO&amp;AUDIO/HEALTH INSURANCE/AD NO.201" Duration="00:00:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A11" Date="2025-07-12T00:00:00.000Z" Time="17:32:05.00" MaterialID="ZWJ01729" Title="Chasing Monsters - Season#3 - Episode#3" Duration="00:07:30.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:30.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C9C1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:20.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:06:30.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C9CF"/>
+
+<Event Type="Server" Number="71206A17" Date="2025-07-12T00:00:00.000Z" Time="17:39:35.00" MaterialID="ZWJJ102885" Title="Inside the Factory S9 Promo REV (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206A18" Date="2025-07-12T00:00:00.000Z" Time="17:40:20.00" MaterialID="ZWMI100799" Title="MAX1 Demonte Colony 2  MAX 1 Premiere Megaplex (Ton 8pm) X - TON" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206A19" Date="2025-07-12T00:00:00.000Z" Time="17:40:40.00" MaterialID="ZWSL100157" Title="Hunt - Trailer 2 - Cutdown 20 Sec - With Review SN- HD - DT; The" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A1B" Date="2025-07-12T00:00:00.000Z" Time="17:41:00.00" MaterialID="ZWJ01655" Title="LONELY PLANET'S YEAR OF ADVENTURES  - Season#1 - Episode#3" Duration="00:13:19.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:13:19.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C9E3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196C9EF"/>
+
+<Event Type="Multi" Number="71206A1F" Date="2025-07-12T00:00:00.000Z" Time="17:54:19.00" MaterialID="ZWJ01655" Title="LONELY PLANET'S YEAR OF ADVENTURES  - Season#1 - Episode#3" Duration="00:11:11.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:11:11.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A21" Date="2025-07-12T00:00:00.000Z" Time="18:05:30.00" MaterialID="ZWJ01655" Title="LONELY PLANET'S YEAR OF ADVENTURES  - Season#1 - Episode#3" Duration="00:07:38.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:38.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:07:35.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206A24" Date="2025-07-12T00:00:00.000Z" Time="18:13:08.00" MaterialID="ZWV62812" Title="PRIME  - ASIN-1 WLLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD )" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A26" Date="2025-07-12T00:00:00.000Z" Time="18:13:18.00" MaterialID="ZWJ01655" Title="LONELY PLANET'S YEAR OF ADVENTURES  - Season#1 - Episode#3" Duration="00:04:20.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:04:20.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CA01"/>
+
+<Event Type="Multi" Number="71206A2A" Date="2025-07-12T00:00:00.000Z" Time="18:17:38.00" MaterialID="ZWJ01655" Title="LONELY PLANET'S YEAR OF ADVENTURES  - Season#1 - Episode#3" Duration="00:06:05.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:05.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:02.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206A2D" Date="2025-07-12T00:00:00.000Z" Time="18:23:43.00" MaterialID="ZWV62069" Title="POLICY BAZAAR.COM -PBIB/VIDEO&amp;AUDIO/TERM INSURANCE/AD NO.206" Duration="00:00:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A2F" Date="2025-07-12T00:00:00.000Z" Time="18:23:58.00" MaterialID="ZWJ01655" Title="LONELY PLANET'S YEAR OF ADVENTURES  - Season#1 - Episode#3" Duration="00:03:31.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:03:31.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CA13"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:02:21.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:02:31.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CA21"/>
+
+<Event Type="Server" Number="71206A35" Date="2025-07-12T00:00:00.000Z" Time="18:27:29.00" MaterialID="ZWJJ102895" Title="Souvenirs &amp; Stories (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206A36" Date="2025-07-12T00:00:00.000Z" Time="18:28:14.00" MaterialID="ZWBB120972" Title="MOct22 - Ishqbaaz Khiladi - SMP - Promo 1 (Tom 1pm) X - TOM" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A38" Date="2025-07-12T00:00:00.000Z" Time="18:28:34.00" MaterialID="ZWJ00901" Title="EARTH'S GREAT RIVERS  - Season#1 - Episode#3" Duration="00:09:58.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:58.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CA33"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CA3F"/>
+
+<Event Type="Multi" Number="71206A3C" Date="2025-07-12T00:00:00.000Z" Time="18:38:32.00" MaterialID="ZWJ00901" Title="EARTH'S GREAT RIVERS  - Season#1 - Episode#3" Duration="00:08:20.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:20.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A3E" Date="2025-07-12T00:00:00.000Z" Time="18:46:52.00" MaterialID="ZWJ00901" Title="EARTH'S GREAT RIVERS  - Season#1 - Episode#3" Duration="00:11:04.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:11:04.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:11:01.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A41" Date="2025-07-12T00:00:00.000Z" Time="18:57:56.00" MaterialID="ZWJ00901" Title="EARTH'S GREAT RIVERS  - Season#1 - Episode#3" Duration="00:05:20.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:20.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CA51"/>
+
+<Event Type="Multi" Number="71206A44" Date="2025-07-12T00:00:00.000Z" Time="19:03:16.00" MaterialID="ZWJ00901" Title="EARTH'S GREAT RIVERS  - Season#1 - Episode#3" Duration="00:05:15.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:15.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:05:12.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206A47" Date="2025-07-12T00:00:00.000Z" Time="19:08:31.00" MaterialID="ZWV62812" Title="PRIME  - ASIN-1 WLLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD )" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A49" Date="2025-07-12T00:00:00.000Z" Time="19:08:41.00" MaterialID="ZWJ00901" Title="EARTH'S GREAT RIVERS  - Season#1 - Episode#3" Duration="00:06:18.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:18.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CA63"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:05:08.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:05:18.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CA71"/>
+
+<Event Type="Server" Number="71206A4F" Date="2025-07-12T00:00:00.000Z" Time="19:14:59.00" MaterialID="ZWJJ102885" Title="Inside the Factory S9 Promo REV (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206A50" Date="2025-07-12T00:00:00.000Z" Time="19:15:44.00" MaterialID="ZWMI100799" Title="MAX1 Demonte Colony 2  MAX 1 Premiere Megaplex (Ton 8pm) X - TON" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206A51" Date="2025-07-12T00:00:00.000Z" Time="19:16:04.00" MaterialID="ZWSL100155" Title="Hunt -Trailer  Cutdown 20 Sec Promo 1 - With Review SN- HD - DT; The" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A53" Date="2025-07-12T00:00:00.000Z" Time="19:16:24.00" MaterialID="ZWJ0050252" Title="00003-THE SECRET GENIUS OF MODERN LIFE -" Duration="00:09:33.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:33.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CA83"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CA8F"/>
+
+<Event Type="Multi" Number="71206A57" Date="2025-07-12T00:00:00.000Z" Time="19:25:57.00" MaterialID="ZWJ0050252" Title="00003-THE SECRET GENIUS OF MODERN LIFE -" Duration="00:08:51.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:51.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A59" Date="2025-07-12T00:00:00.000Z" Time="19:34:48.00" MaterialID="ZWJ0050252" Title="00003-THE SECRET GENIUS OF MODERN LIFE -" Duration="00:10:14.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:10:14.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:10:11.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206A5C" Date="2025-07-12T00:00:00.000Z" Time="19:45:02.00" MaterialID="ZWV62066" Title="POLICY BAZAAR.COM -PBIB/VIDEO&amp;AUDIO/HEALTH INSURANCE/AD NO.203" Duration="00:00:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A5E" Date="2025-07-12T00:00:00.000Z" Time="19:45:17.00" MaterialID="ZWJ0050252" Title="00003-THE SECRET GENIUS OF MODERN LIFE -" Duration="00:10:21.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:10:21.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CAA1"/>
+
+<Event Type="Multi" Number="71206A62" Date="2025-07-12T00:00:00.000Z" Time="19:55:38.00" MaterialID="ZWJ0050252" Title="00003-THE SECRET GENIUS OF MODERN LIFE -" Duration="00:09:09.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:09.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:09:06.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A65" Date="2025-07-12T00:00:00.000Z" Time="20:04:47.00" MaterialID="ZWJ0050252" Title="00003-THE SECRET GENIUS OF MODERN LIFE -" Duration="00:05:38.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:38.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CAB3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:04:28.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:04:38.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CAC1"/>
+
+<Event Type="Server" Number="71206A6A" Date="2025-07-12T00:00:00.000Z" Time="20:10:25.00" MaterialID="ZWJJ102895" Title="Souvenirs &amp; Stories (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206A6B" Date="2025-07-12T00:00:00.000Z" Time="20:11:10.00" MaterialID="ZWBB120972" Title="MOct22 - Ishqbaaz Khiladi - SMP - Promo 1 (Tom 1pm) X - TOM" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A6D" Date="2025-07-12T00:00:00.000Z" Time="20:11:30.00" MaterialID="ZWJ0050192" Title="00008-INSIDE THE FACTORY - Season#8" Duration="00:11:16.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:11:16.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CAD5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CAE1"/>
+
+<Event Type="Multi" Number="71206A71" Date="2025-07-12T00:00:00.000Z" Time="20:22:46.00" MaterialID="ZWJ0050192" Title="00008-INSIDE THE FACTORY - Season#8" Duration="00:10:17.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:10:17.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A73" Date="2025-07-12T00:00:00.000Z" Time="20:33:03.00" MaterialID="ZWJ0050192" Title="00008-INSIDE THE FACTORY - Season#8" Duration="00:10:27.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:10:27.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:10:24.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206A76" Date="2025-07-12T00:00:00.000Z" Time="20:43:30.00" MaterialID="ZWV62813" Title="PRIME  - CAT OHLLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD )" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A78" Date="2025-07-12T00:00:00.000Z" Time="20:43:40.00" MaterialID="ZWJ0050192" Title="00008-INSIDE THE FACTORY - Season#8" Duration="00:05:01.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CAF3"/>
+
+<Event Type="Multi" Number="71206A7C" Date="2025-07-12T00:00:00.000Z" Time="20:48:41.00" MaterialID="ZWJ0050192" Title="00008-INSIDE THE FACTORY - Season#8" Duration="00:05:11.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:11.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:05:08.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206A7F" Date="2025-07-12T00:00:00.000Z" Time="20:53:52.00" MaterialID="ZWV62069" Title="POLICY BAZAAR.COM -PBIB/VIDEO&amp;AUDIO/TERM INSURANCE/AD NO.206" Duration="00:00:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A81" Date="2025-07-12T00:00:00.000Z" Time="20:54:07.00" MaterialID="ZWJ0050192" Title="00008-INSIDE THE FACTORY - Season#8" Duration="00:05:46.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:46.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CB05"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:04:36.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:04:46.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CB13"/>
+
+<Event Type="Server" Number="71206A87" Date="2025-07-12T00:00:00.000Z" Time="20:59:53.00" MaterialID="ZWJJ102885" Title="Inside the Factory S9 Promo REV (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206A88" Date="2025-07-12T00:00:00.000Z" Time="21:00:38.00" MaterialID="ZWMI100523" Title="MAX1 Baahubali 2: The Conclusion  Break Free Blockbuster (TOM 8pm) X - TOM" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206A89" Date="2025-07-12T00:00:00.000Z" Time="21:00:58.00" MaterialID="ZWSL100157" Title="Hunt - Trailer 2 - Cutdown 20 Sec - With Review SN- HD - DT; The" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A8B" Date="2025-07-12T00:00:00.000Z" Time="21:01:18.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:12:48.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:12:48.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CB27"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CB33"/>
+
+<Event Type="Multi" Number="71206A8F" Date="2025-07-12T00:00:00.000Z" Time="21:14:06.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:09:30.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:30.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A91" Date="2025-07-12T00:00:00.000Z" Time="21:23:36.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:05:13.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:13.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:05:10.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206A94" Date="2025-07-12T00:00:00.000Z" Time="21:28:49.00" MaterialID="ZWV62809" Title="PRIME  - ASIN-1 CEPCLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A96" Date="2025-07-12T00:00:00.000Z" Time="21:28:59.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:09:21.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:21.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CB45"/>
+
+<Event Type="Multi" Number="71206A9A" Date="2025-07-12T00:00:00.000Z" Time="21:38:20.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:07:29.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:29.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:07:26.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206A9D" Date="2025-07-12T00:00:00.000Z" Time="21:45:49.00" MaterialID="ZWV62068" Title="POLICY BAZAAR.COM -PBIB/VIDEO&amp;AUDIO/TERM INSURANCE/AD NO.205" Duration="00:00:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206A9F" Date="2025-07-12T00:00:00.000Z" Time="21:46:04.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:03:28.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:03:28.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CB57"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:02:18.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:02:28.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CB65"/>
+
+<Event Type="Server" Number="71206AA5" Date="2025-07-12T00:00:00.000Z" Time="21:49:32.00" MaterialID="ZWJJ102895" Title="Souvenirs &amp; Stories (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206AA6" Date="2025-07-12T00:00:00.000Z" Time="21:50:17.00" MaterialID="ZWBB120972" Title="MOct22 - Ishqbaaz Khiladi - SMP - Promo 1 (Tom 1pm) X - TOM" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206AA8" Date="2025-07-12T00:00:00.000Z" Time="21:50:37.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:14:29.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:14:29.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CB79"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CB85"/>
+
+<Event Type="Multi" Number="71206AAC" Date="2025-07-12T00:00:00.000Z" Time="22:05:06.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:06:38.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:38.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206AAE" Date="2025-07-12T00:00:00.000Z" Time="22:11:44.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:08:16.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:16.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:08:13.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206AB1" Date="2025-07-12T00:00:00.000Z" Time="22:20:00.00" MaterialID="ZWV62810" Title="PRIME  - ASIN-3 WLLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD )" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206AB3" Date="2025-07-12T00:00:00.000Z" Time="22:20:10.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:06:18.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:18.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CB97"/>
+
+<Event Type="Multi" Number="71206AB7" Date="2025-07-12T00:00:00.000Z" Time="22:26:28.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:06:19.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:19.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:16.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206ABA" Date="2025-07-12T00:00:00.000Z" Time="22:32:47.00" MaterialID="ZWV62068" Title="POLICY BAZAAR.COM -PBIB/VIDEO&amp;AUDIO/TERM INSURANCE/AD NO.205" Duration="00:00:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206ABC" Date="2025-07-12T00:00:00.000Z" Time="22:33:02.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:04:06.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:04:06.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CBA9"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:02:56.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:03:06.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CBB7"/>
+
+<Event Type="Server" Number="71206AC2" Date="2025-07-12T00:00:00.000Z" Time="22:37:08.00" MaterialID="ZWJJ102885" Title="Inside the Factory S9 Promo REV (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206AC3" Date="2025-07-12T00:00:00.000Z" Time="22:37:53.00" MaterialID="ZWMI100523" Title="MAX1 Baahubali 2: The Conclusion  Break Free Blockbuster (TOM 8pm) X - TOM" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206AC4" Date="2025-07-12T00:00:00.000Z" Time="22:38:13.00" MaterialID="ZWSL100155" Title="Hunt -Trailer  Cutdown 20 Sec Promo 1 - With Review SN- HD - DT; The" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206AC6" Date="2025-07-12T00:00:00.000Z" Time="22:38:33.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:08:12.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:12.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CBC9"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CBD5"/>
+
+<Event Type="Multi" Number="71206ACA" Date="2025-07-12T00:00:00.000Z" Time="22:46:45.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:09:35.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:35.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206ACC" Date="2025-07-12T00:00:00.000Z" Time="22:56:20.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:08:29.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:29.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:08:26.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206ACF" Date="2025-07-12T00:00:00.000Z" Time="23:04:49.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:06:07.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:07.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CBE7"/>
+
+<Event Type="Multi" Number="71206AD2" Date="2025-07-12T00:00:00.000Z" Time="23:10:56.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:06:45.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:45.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:42.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206AD5" Date="2025-07-12T00:00:00.000Z" Time="23:17:41.00" MaterialID="ZWV62812" Title="PRIME  - ASIN-1 WLLIVENOWPD10_2025_SN - BY ADSTREAM  ( SONY INDIA NETWORK HD )" Duration="00:00:10.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206AD7" Date="2025-07-12T00:00:00.000Z" Time="23:17:51.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:05:07.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:07.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CBF9"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:03:57.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:04:07.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CC07"/>
+
+<Event Type="Server" Number="71206ADD" Date="2025-07-12T00:00:00.000Z" Time="23:22:58.00" MaterialID="ZWJJ102895" Title="Souvenirs &amp; Stories (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206ADE" Date="2025-07-12T00:00:00.000Z" Time="23:23:43.00" MaterialID="ZWBB120972" Title="MOct22 - Ishqbaaz Khiladi - SMP - Promo 1 (Tom 1pm) X - TOM" Duration="00:00:20.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:15.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206AE0" Date="2025-07-12T00:00:00.000Z" Time="23:24:03.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:10:36.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:10:36.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CC19"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CC25"/>
+
+<Event Type="Multi" Number="71206AE4" Date="2025-07-12T00:00:00.000Z" Time="23:34:39.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:07:49.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:49.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206AE6" Date="2025-07-12T00:00:00.000Z" Time="23:42:28.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:07:09.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:09.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:07:06.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206AE9" Date="2025-07-12T00:00:00.000Z" Time="23:49:37.00" MaterialID="ZWV62616" Title="POLICY BAZAAR.COM - PBIB/VIDEO&amp;AUDIO/HEALTH INSURANCE/AD NO.202_REVJULY" Duration="00:00:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEA" SOM="00:00:00.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206AEB" Date="2025-07-12T00:00:00.000Z" Time="23:49:52.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:07:04.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:04.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CUEB" SOM="00:00:01.00" Duration="00:00:01.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CC37"/>
+
+<Event Type="Multi" Number="71206AEF" Date="2025-07-12T00:00:00.000Z" Time="23:56:56.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:05:50.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-12T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:50.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:05:47.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206AF2" Date="2025-07-13T00:00:00.000Z" Time="00:02:46.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:05:55.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:55.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CC49"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:04:45.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:04:55.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CC57"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:05:50.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206AF8" Date="2025-07-13T00:00:00.000Z" Time="00:08:41.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:12:48.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:12:48.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CC67"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CC73"/>
+
+<Event Type="Multi" Number="71206AFC" Date="2025-07-13T00:00:00.000Z" Time="00:21:29.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:09:30.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:30.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206AFE" Date="2025-07-13T00:00:00.000Z" Time="00:30:59.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:05:13.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:13.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:05:10.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B01" Date="2025-07-13T00:00:00.000Z" Time="00:36:12.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:09:21.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:21.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CC85"/>
+
+<Event Type="Multi" Number="71206B04" Date="2025-07-13T00:00:00.000Z" Time="00:45:33.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:07:29.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:29.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:07:26.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B07" Date="2025-07-13T00:00:00.000Z" Time="00:53:02.00" MaterialID="ZWJ01683" Title="GANGES  - Season#1 - Episode#2" Duration="00:03:28.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:03:28.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CC97"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:02:18.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:02:28.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CCA5"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:03:23.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B0D" Date="2025-07-13T00:00:00.000Z" Time="00:56:30.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:14:29.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:14:29.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CCB5"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CCC1"/>
+
+<Event Type="Multi" Number="71206B11" Date="2025-07-13T00:00:00.000Z" Time="01:10:59.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:06:38.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:38.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B13" Date="2025-07-13T00:00:00.000Z" Time="01:17:37.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:08:16.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:16.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:08:13.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B16" Date="2025-07-13T00:00:00.000Z" Time="01:25:53.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:06:18.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:18.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CCD3"/>
+
+<Event Type="Multi" Number="71206B19" Date="2025-07-13T00:00:00.000Z" Time="01:32:11.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:06:19.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:19.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:16.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B1C" Date="2025-07-13T00:00:00.000Z" Time="01:38:30.00" MaterialID="ZWJ01792" Title="Spy in the Ocean - Season#1 - Episode#3" Duration="00:04:06.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:04:06.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CCE5"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:02:56.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:03:06.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CCF3"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:04:01.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B22" Date="2025-07-13T00:00:00.000Z" Time="01:42:36.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:08:12.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:12.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CD03"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CD0F"/>
+
+<Event Type="Multi" Number="71206B26" Date="2025-07-13T00:00:00.000Z" Time="01:50:48.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:09:35.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:09:35.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B28" Date="2025-07-13T00:00:00.000Z" Time="02:00:23.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:08:29.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:29.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:08:26.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B2B" Date="2025-07-13T00:00:00.000Z" Time="02:08:52.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:06:07.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:07.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CD21"/>
+
+<Event Type="Multi" Number="71206B2E" Date="2025-07-13T00:00:00.000Z" Time="02:14:59.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:06:45.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:45.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:42.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B31" Date="2025-07-13T00:00:00.000Z" Time="02:21:44.00" MaterialID="ZWJ00419" Title="THE SECRET LIFE OF DOGS - Season#2 - Episode#3" Duration="00:05:07.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:07.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CD33"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:03:57.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:04:07.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CD41"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:05:02.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B37" Date="2025-07-13T00:00:00.000Z" Time="02:26:51.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:10:36.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:10:36.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CD51"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CD5D"/>
+
+<Event Type="Multi" Number="71206B3B" Date="2025-07-13T00:00:00.000Z" Time="02:37:27.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:07:49.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:49.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B3D" Date="2025-07-13T00:00:00.000Z" Time="02:45:16.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:07:09.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:09.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:07:06.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B40" Date="2025-07-13T00:00:00.000Z" Time="02:52:25.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:07:04.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:04.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CD6F"/>
+
+<Event Type="Multi" Number="71206B43" Date="2025-07-13T00:00:00.000Z" Time="02:59:29.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:05:50.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:50.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:05:47.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B46" Date="2025-07-13T00:00:00.000Z" Time="03:05:19.00" MaterialID="ZWJ01226" Title="Boxing Day Tsunami  - Season#1 - Episode#3" Duration="00:05:55.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:55.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CD81"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:04:45.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:04:55.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CD8F"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:05:50.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B4C" Date="2025-07-13T00:00:00.000Z" Time="03:11:14.00" MaterialID="ZWJ0050086" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#1" Duration="00:12:32.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:12:32.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CD9F"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CDAB"/>
+
+<Event Type="Multi" Number="71206B50" Date="2025-07-13T00:00:00.000Z" Time="03:23:46.00" MaterialID="ZWJ0050086" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#1" Duration="00:10:16.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:10:16.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B52" Date="2025-07-13T00:00:00.000Z" Time="03:34:02.00" MaterialID="ZWJ0050086" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#1" Duration="00:06:26.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:26.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:23.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B55" Date="2025-07-13T00:00:00.000Z" Time="03:40:28.00" MaterialID="ZWJ0050086" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#1" Duration="00:07:16.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:16.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CDBD"/>
+
+<Event Type="Multi" Number="71206B58" Date="2025-07-13T00:00:00.000Z" Time="03:47:44.00" MaterialID="ZWJ0050086" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#1" Duration="00:06:38.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:38.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:35.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B5B" Date="2025-07-13T00:00:00.000Z" Time="03:54:22.00" MaterialID="ZWJ0050086" Title="NEW YORK: AMERICA’S BUSIEST CITY  - Season#1 - Episode#1" Duration="00:05:51.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:05:51.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CDCF"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:04:41.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:04:51.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CDDD"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:05:46.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B61" Date="2025-07-13T00:00:00.000Z" Time="04:00:13.00" MaterialID="ZWJ0050012" Title="00003-Deadly Mission Shark - S01" Duration="00:07:25.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:25.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CDED"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CDF9"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:07:22.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B66" Date="2025-07-13T00:00:00.000Z" Time="04:07:38.00" MaterialID="ZWJ0050012" Title="00003-Deadly Mission Shark - S01" Duration="00:07:06.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:06.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CE07"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:07:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B6A" Date="2025-07-13T00:00:00.000Z" Time="04:14:44.00" MaterialID="ZWJ0050012" Title="00003-Deadly Mission Shark - S01" Duration="00:06:13.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:13.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CE17"/>
+
+<Event Type="Multi" Number="71206B6D" Date="2025-07-13T00:00:00.000Z" Time="04:20:57.00" MaterialID="ZWJ0050012" Title="00003-Deadly Mission Shark - S01" Duration="00:03:08.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:03:08.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:01:58.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:02:08.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CE27"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:03:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B72" Date="2025-07-13T00:00:00.000Z" Time="04:24:05.00" MaterialID="ZBE5000006" Title="LAST MAN STANDING - Season#1 - Episode#5" Duration="00:11:15.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:11:15.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CE37"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CE43"/>
+
+<Event Type="Multi" Number="71206B76" Date="2025-07-13T00:00:00.000Z" Time="04:35:20.00" MaterialID="ZBE5000006" Title="LAST MAN STANDING - Season#1 - Episode#5" Duration="00:07:34.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:34.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B78" Date="2025-07-13T00:00:00.000Z" Time="04:42:54.00" MaterialID="ZBE5000006" Title="LAST MAN STANDING - Season#1 - Episode#5" Duration="00:06:41.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:41.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:38.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B7B" Date="2025-07-13T00:00:00.000Z" Time="04:49:35.00" MaterialID="ZBE5000006" Title="LAST MAN STANDING - Season#1 - Episode#5" Duration="00:10:08.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:10:08.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CE55"/>
+
+<Event Type="Multi" Number="71206B7E" Date="2025-07-13T00:00:00.000Z" Time="04:59:43.00" MaterialID="ZBE5000006" Title="LAST MAN STANDING - Season#1 - Episode#5" Duration="00:07:29.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:29.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:07:26.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B81" Date="2025-07-13T00:00:00.000Z" Time="05:07:12.00" MaterialID="ZBE5000006" Title="LAST MAN STANDING - Season#1 - Episode#5" Duration="00:02:39.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:02:39.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CE67"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:01:29.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1504" SOM="00:01:39.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CE75"/>
+
+<Event Type="Server" Number="71206B86" Date="2025-07-13T00:00:00.000Z" Time="05:09:51.00" MaterialID="ZWJJ102895" Title="Souvenirs &amp; Stories (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1504D" SOM="00:00:40.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B88" Date="2025-07-13T00:00:00.000Z" Time="05:10:36.00" MaterialID="ZBE00030" Title="LAST MAN STANDING - Season#1 - Episode#6" Duration="00:12:57.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:12:57.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CE85"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="TK1001" SOM="00:03:00.00" Duration="00:00:40.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CE91"/>
+
+<Event Type="Multi" Number="71206B8C" Date="2025-07-13T00:00:00.000Z" Time="05:23:33.00" MaterialID="ZBE00030" Title="LAST MAN STANDING - Season#1 - Episode#6" Duration="00:06:45.00" OnAirChannel="0" BIN="255" Segment="2"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:45.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B8E" Date="2025-07-13T00:00:00.000Z" Time="05:30:18.00" MaterialID="ZBE00030" Title="LAST MAN STANDING - Season#1 - Episode#6" Duration="00:08:03.00" OnAirChannel="0" BIN="255" Segment="3"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:08:03.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:08:00.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B91" Date="2025-07-13T00:00:00.000Z" Time="05:38:21.00" MaterialID="ZBE00030" Title="LAST MAN STANDING - Season#1 - Episode#6" Duration="00:07:02.00" OnAirChannel="0" BIN="255" Segment="4"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:07:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CEA3"/>
+
+<Event Type="Multi" Number="71206B94" Date="2025-07-13T00:00:00.000Z" Time="05:45:23.00" MaterialID="ZBE00030" Title="LAST MAN STANDING - Season#1 - Episode#6" Duration="00:06:43.00" OnAirChannel="0" BIN="255" Segment="5"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:06:43.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:06:40.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Multi" Number="71206B97" Date="2025-07-13T00:00:00.000Z" Time="05:52:06.00" MaterialID="ZBE00030" Title="LAST MAN STANDING - Season#1 - Episode#6" Duration="00:04:27.00" OnAirChannel="0" BIN="255" Segment="6"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="CI1002" SOM="00:00:00.00" Duration="00:04:27.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503" SOM="00:00:03.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0" Title="0196CEB5"/>
+
+<Event Date="2025-07-13T00:00:00.000Z" Type="Logo" MaterialID="MT1503D" SOM="00:03:17.00" Duration="00:00:02.00" OnAirChannel="0" BIN="255" GPI1="0" GPI2="0"/>
+
+<Event Type="Server" Number="71206B9B" Date="2025-07-13T00:00:00.000Z" Time="05:56:33.00" MaterialID="ZWJJ102802" Title="SOE Avalanche Filler - HD - FILLER" Duration="00:02:59.00" OnAirChannel="0" BIN="255" Segment="1"/>
+
+<Event Type="Server" Number="71206B9C" Date="2025-07-13T00:00:00.000Z" Time="05:59:32.00" MaterialID="ZWJJ102895" Title="Souvenirs &amp; Stories (HD) - DDT" Duration="00:00:45.00" OnAirChannel="0" BIN="255" Segment="1"/></XMLPackage>
+

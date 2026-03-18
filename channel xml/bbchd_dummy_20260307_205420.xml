@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<Playlist>
+  <Event Type="Program" Date="2026-03-07+05:30" Time="19:54:20.00" Duration="04:00:00.00"/>
+  <Event Type="LOGO" MaterialID="*CI0000*" SOM="01:00:15.00"/>
+  <Event Type="LOGO" MaterialID="*CI1001*" SOM="01:01:15.00"/>
+</Playlist>
